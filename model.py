@@ -35,12 +35,13 @@ class Model:
         return self.chain
     
 
-model = Model("ft:gpt-3.5-turbo-1106:boston-university::8kkN3yKE")
-chain = model.get_chain()
+def main():
+    model = Model("ft:gpt-3.5-turbo-1106:boston-university::8kkN3yKE")
+    chain = model.get_chain()
 
-inputs = {"input": "What are your likes?"}
-response = chain.invoke(inputs)
-print(response)
+    inputs = "What are your likes?"
+    response = chain.invoke(inputs)
+    print(response)
 
 
 
