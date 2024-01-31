@@ -1,0 +1,1907 @@
+[9/12/23, 13:23:52] FGK: Hey Ishan were you able to create your project and configure the permissions for 561?
+[9/12/23, 13:26:32] Ishan Ranjan: Oh yeah I was
+[9/12/23, 13:26:54] Ishan Ranjan: Creating the project is simple, gcloud has instructions for it
+[9/12/23, 13:26:54] FGK: Did you create it under the bu organization
+[9/12/23, 13:26:58] Ishan Ranjan: Yeah
+[9/12/23, 13:27:01] FGK: Cuz I did and it worked fone
+[9/12/23, 13:27:02] FGK: Fine
+[9/12/23, 13:27:15] Ishan Ranjan: Yeah it did for me too
+[9/12/23, 13:27:19] FGK: But apparently some people did that but cant give permissions
+[9/12/23, 13:27:22] FGK: Interesting lol
+[9/12/23, 13:27:31] Ishan Ranjan: Did you look at IAM?
+[9/12/23, 13:27:38] FGK: I did yeah
+[9/12/23, 13:27:39] Ishan Ranjan: I think he still might be updating access
+[9/12/23, 13:27:40] FGK: It only worked
+[9/12/23, 13:27:48] FGK: After I explicitly created a project
+[9/12/23, 13:27:53] FGK: Under the bu organization
+[9/12/23, 13:27:55] Ishan Ranjan: Oh yeah you need to do that first
+[9/12/23, 13:28:03] FGK: Okay just wanted to make sure
+[9/12/23, 13:28:13] FGK: Cuz the recent piazza post got me concerned
+[9/12/23, 13:28:17] Ishan Ranjan: Lmaoo
+[9/12/23, 13:28:21] Ishan Ranjan: Yeah it’s a mood
+[9/12/23, 13:28:25] FGK: Lol
+[9/13/23, 21:34:34] FGK: Hey
+[9/13/23, 21:34:45] FGK: you have any idea what you're gonna do for the 587 project
+[9/13/23, 21:34:55] Ishan Ranjan: hm so smtn based on like
+[9/13/23, 21:34:58] Ishan Ranjan: ai art
+[9/13/23, 21:35:04] Ishan Ranjan: maybe its a lit review idk yet
+[9/13/23, 21:35:09] Ishan Ranjan: or maybe an ai generated video
+[9/13/23, 21:35:12] FGK: I was thinking that too
+[9/13/23, 21:35:12] Ishan Ranjan: or something idk
+[9/13/23, 21:35:21] FGK: Lots of room for smth interesting
+[9/13/23, 21:35:33] FGK: We can team up if you'd like that
+[9/13/23, 21:35:39] Ishan Ranjan: id be down
+[9/13/23, 21:35:47] FGK: Great
+[9/13/23, 21:35:55] FGK: We can discuss more tomorrow
+[9/13/23, 21:36:00] FGK: I was gonna brainstorm rn
+[9/13/23, 21:46:09] Ishan Ranjan: Sounds good
+[9/15/23, 16:01:57] FGK: If you need a ride lmk
+[9/15/23, 16:02:05] FGK: We can go get drinks together as well
+[9/15/23, 16:02:11] FGK: For tonight
+[9/15/23, 16:02:17] Ishan Ranjan: I’m down
+[9/15/23, 16:02:35] FGK: There’s Blanchards on Harvard Ave
+[9/15/23, 16:03:39] Ishan Ranjan: Sweet yeah that’s literally next to my apartment
+[9/15/23, 16:03:48] FGK: Wonderful
+[9/15/23, 16:03:57] Ishan Ranjan: I think Jack was saying he was free as well so yeah I’ll just make a GC with all of us
+[9/15/23, 16:04:19] FGK: He’s already there
+[9/15/23, 16:04:29] Ishan Ranjan: Oh I meant us 3 to coordinate
+[9/15/23, 16:04:33] FGK: Ah
+[9/15/23, 16:04:34] Ishan Ranjan: Lmao
+[9/15/23, 16:04:34] FGK: Gotcha
+[9/18/23, 13:06:39] Ishan Ranjan: What time this week works to meet with the prof for the 587 project?
+[9/18/23, 14:30:47] FGK: Can we meet together?
+[9/18/23, 14:30:55] FGK: I thought it was individually
+[9/20/23, 18:45:26] FGK: We meeting with the 587 professor tmrw at 3?
+[9/20/23, 18:45:31] FGK: Lmk if u want a different time
+[9/20/23, 21:07:47] Ishan Ranjan: Oh yeah that’s good
+[9/20/23, 21:07:54] Ishan Ranjan: Actually so
+[9/20/23, 21:08:03] Ishan Ranjan: Are you good with Anush joining our group possibly
+[9/20/23, 21:08:14] Ishan Ranjan: He talked with the prof and she said 3 ppl is chillin
+[9/20/23, 21:22:35] FGK: Yeah of course
+[9/20/23, 21:58:30] Ishan Ranjan: aight bet imma let him know what time our meeting is tmw
+[9/21/23, 11:42:49] FGK: Are you free this Sunday
+[9/21/23, 11:42:51] FGK: Night
+[9/21/23, 11:54:19] Ishan Ranjan: Sunday night should be good
+[9/21/23, 11:54:55] FGK: Its my birthday i wanna gather people to go celebrate
+[9/21/23, 11:55:05] FGK: Nothing too crazy considering its a sunday
+[9/21/23, 12:08:31] Ishan Ranjan: Oh yeeeee
+[9/21/23, 12:08:34] Ishan Ranjan: Let’s do it
+[9/21/23, 12:10:57] FGK: Fire
+[9/21/23, 12:11:22] Ishan Ranjan: We could also go clubbing after 12am on Saturday night but idk if ppl are down for that kmao
+[9/21/23, 12:11:57] Ishan Ranjan: But yeah let’s do sojuba
+[9/21/23, 12:16:28] FGK: Not sure abt that rn
+[9/21/23, 12:18:20] Ishan Ranjan: Lmao yeah same
+[9/21/23, 12:18:24] Ishan Ranjan: Was just spitballing
+[9/21/23, 12:18:34] FGK: Love it
+[9/21/23, 12:18:51] FGK: SOJUba has a 2 hour limit for each party
+[9/21/23, 12:18:59] FGK: But idk how much they’ll enforce it on a Sunday night
+[9/21/23, 12:19:44] Ishan Ranjan: Yeah true
+[9/21/23, 14:55:40] FGK: Im here
+[9/21/23, 14:55:55] FGK: For the meeting with the prof
+[9/21/23, 16:41:17] FGK: Wya rn
+[9/21/23, 16:42:08] Ishan Ranjan: Einstein
+[9/21/23, 16:42:16] FGK: Aight
+[9/21/23, 17:17:26] Ishan Ranjan: lmao how is this so far
+[9/21/23, 17:17:35] FGK: wdym
+[9/21/23, 17:17:39] Ishan Ranjan: the lecture
+[9/21/23, 17:17:40] FGK: oh the lecture
+[9/21/23, 17:17:42] FGK: lmao its alright
+[9/21/23, 17:17:45] FGK: same energy as ours
+[9/21/23, 17:18:02] Ishan Ranjan: ah yeah i feel like its just cause its a big class that it doesnt hit as hard
+[9/21/23, 17:18:09] FGK: yeah
+[9/21/23, 17:18:11] FGK: and these guys behind us
+[9/21/23, 17:18:15] FGK: annoying af
+[9/21/23, 17:18:22] Ishan Ranjan: lmao i know them so
+[9/21/23, 17:18:26] Ishan Ranjan: it be like that
+[9/21/23, 17:18:40] FGK: just talking while he's talking in the beginning
+[9/21/23, 17:18:43] FGK: was annoying
+[9/21/23, 17:19:01] FGK: but its no big deal lol
+[9/21/23, 17:19:36] FGK: interesting how he's limiting you to climate
+[9/21/23, 17:20:16] Ishan Ranjan: true
+[9/21/23, 17:20:44] Ishan Ranjan: fair yeah theyre friends with my roommates so they prob saw me and sat near LOL
+[9/21/23, 17:20:55] Ishan Ranjan: yeah honestly I kinda wanna do stocks
+[9/21/23, 17:21:01] Ishan Ranjan: thats so much more interesting
+[9/21/23, 17:21:04] FGK: yep
+[9/21/23, 17:21:16] FGK: like in lecture today he showed us the graph of the s&p500
+[9/21/23, 17:21:26] FGK: and asked why theres a dip on wednesday
+[9/21/23, 17:21:37] Ishan Ranjan: oh shit
+[9/21/23, 17:21:38] FGK: and we discussed the fed holding interest rates lmao
+[9/21/23, 17:21:42] FGK: bro knows his shit
+[9/21/23, 17:21:43] Ishan Ranjan: damn haha
+[9/21/23, 17:22:04] Ishan Ranjan: wait what time is deep learning lecture
+[9/21/23, 17:22:11] FGK: 3:30
+[9/21/23, 17:22:13] FGK: CAS 203
+[9/21/23, 17:22:22] Ishan Ranjan: aaah gotcha, yeah i feel like people are dead by 5
+[9/21/23, 17:22:30] FGK: yep
+[9/21/23, 17:22:33] Ishan Ranjan: 3:30 is still like i want to go home energy
+[9/21/23, 17:22:55] FGK: agreed
+[9/22/23, 18:30:55] FGK: Did u get the US defense project???
+[9/22/23, 18:43:13] Ishan Ranjan: WE DID
+[9/22/23, 18:43:20] Ishan Ranjan: Sorry bro
+[9/22/23, 18:43:25] Ishan Ranjan: Which one did you get
+[9/22/23, 18:43:40] FGK: Work from home
+[9/22/23, 18:43:41] FGK: Lmao
+[9/22/23, 18:43:49] FGK: I put down Carmen after as well
+[9/22/23, 18:43:49] Ishan Ranjan: Actuslly I mean
+[9/22/23, 18:43:59] FGK: Its aight though they probably didnt want
+[9/22/23, 18:44:03] FGK: Non us people on that
+[9/22/23, 18:44:04] Ishan Ranjan: Dude
+[9/22/23, 18:44:08] Ishan Ranjan: The work from home professor
+[9/22/23, 18:44:08] FGK: Which I understand
+[9/22/23, 18:44:14] Ishan Ranjan: Is GOATED with connections
+[9/22/23, 18:44:18] Ishan Ranjan: She knows the Obama
+[9/22/23, 18:44:22] Ishan Ranjan: *obamas
+[9/22/23, 18:44:27] Ishan Ranjan: A lot of people in government
+[9/22/23, 18:44:30] FGK: What
+[9/22/23, 18:44:32] Ishan Ranjan: It’s a good project to get
+[9/22/23, 18:44:33] Ishan Ranjan: Yeah
+[9/22/23, 18:44:36] FGK: Aint no way
+[9/22/23, 18:44:38] FGK: Thats insane
+[9/22/23, 18:44:44] Ishan Ranjan: Jack and I were talking with one of her grad students
+[9/22/23, 18:44:49] Ishan Ranjan: Yeah
+[9/22/23, 18:45:30] FGK: Feeling better abt it now then
+[9/22/23, 18:45:31] FGK: Lmao
+[9/22/23, 19:39:14] Ishan Ranjan: Yeah haha
+[9/23/23, 21:26:20] Ishan Ranjan: aight just got back
+[9/23/23, 21:26:27] Ishan Ranjan: you still free to zoom
+[9/23/23, 21:26:31] FGK: Yeah
+[9/23/23, 21:26:43] FGK: Sending link
+[9/23/23, 21:26:45] Ishan Ranjan: bet
+[9/24/23, 19:58:52] Ishan Ranjan: How far away are ya
+[9/25/23, 14:11:23] Ishan Ranjan: wait so
+[9/25/23, 14:11:26] Ishan Ranjan: for 561
+[9/25/23, 14:11:33] Ishan Ranjan: is the github repo supposed to be public or not
+[9/25/23, 14:26:24] FGK: I think so yeah
+[9/25/23, 14:27:49] Ishan Ranjan: ok wow
+[9/25/23, 14:27:50] Ishan Ranjan: based
+[9/25/23, 14:29:55] FGK: Lmao
+[9/25/23, 15:06:39] FGK: Are you done with the homework?
+[9/25/23, 15:06:53] Ishan Ranjan: Just starting lol
+[9/25/23, 15:07:59] FGK: Lmao
+[9/25/23, 15:08:46] Ishan Ranjan: i mean i created a bucket and the weblinks i must be halfway done already (no im totally not)
+[9/25/23, 15:08:50] Ishan Ranjan: how long did it take you
+[9/25/23, 15:09:14] Ishan Ranjan: i looked up will on github and he’s already done 💀
+[9/25/23, 15:09:48] FGK: The file upload
+[9/25/23, 15:09:51] FGK: was like a good 20-30 mins
+[9/25/23, 15:09:53] FGK: insane
+[9/25/23, 15:09:58] Ishan Ranjan: for bucket?
+[9/25/23, 15:10:00] FGK: goddamn
+[9/25/23, 15:10:00] Ishan Ranjan: sheeeesh
+[9/25/23, 15:10:01] FGK: yeah
+[9/25/23, 15:10:17] Ishan Ranjan: was this over bu wifi
+[9/25/23, 15:10:19] Ishan Ranjan: or at home
+[9/25/23, 15:10:21] FGK: at home
+[9/25/23, 15:10:23] FGK: 300mbs
+[9/25/23, 15:10:24] Ishan Ranjan: fuc
+[9/25/23, 15:10:27] Ishan Ranjan: i have the same
+[9/25/23, 15:10:28] Ishan Ranjan: rip
+[9/25/23, 15:10:32] FGK: lmao
+[9/25/23, 15:11:26] Ishan Ranjan: bro i just wanna go home, plug my shit into our gigabit internet through an ethernet cable
+[9/25/23, 15:11:28] Ishan Ranjan: and pray to god
+[9/25/23, 15:11:31] Ishan Ranjan: it takes less than 15
+[9/25/23, 15:11:40] FGK: 🤣🤣
+[9/25/23, 15:17:06] FGK: thats fire
+[9/25/23, 15:24:44] Ishan Ranjan: wait wdym the copying took me literally 3 mins
+[9/25/23, 15:24:54] Ishan Ranjan: what command did you use lol
+[9/25/23, 15:24:56] FGK: Where are you copying from
+[9/25/23, 15:25:00] Ishan Ranjan: local to gcloud
+[9/25/23, 15:25:02] FGK: Did u make the files on the shell?
+[9/25/23, 15:25:08] Ishan Ranjan: made files on local
+[9/25/23, 15:25:12] FGK: Yeah same
+[9/25/23, 15:25:16] FGK: Took me a long ass time
+[9/25/23, 15:25:18] Ishan Ranjan: then gcloud storage cp to bucket
+[9/25/23, 15:25:20] FGK: 10k files?
+[9/25/23, 15:25:30] FGK: I uploaded straight to bucket
+[9/25/23, 15:25:32] FGK: Using Python
+[9/25/23, 15:26:06] Ishan Ranjan: oh i did
+[9/25/23, 15:26:13] Ishan Ranjan: gcloud storage cp *.html  gs://bu-ds561-iranjan-hw2
+[9/25/23, 15:26:15] Ishan Ranjan: much faster
+[9/25/23, 15:26:18] Ishan Ranjan: xD
+[9/25/23, 15:26:18] FGK: I see
+[9/25/23, 15:26:23] FGK: Didnt know that lmao
+[9/25/23, 15:26:31] FGK: I just used a for loop 💀
+[9/25/23, 15:26:32] Ishan Ranjan: yeah just copied the command from hw1
+[9/25/23, 15:26:35] Ishan Ranjan: oh LOL
+[9/25/23, 15:26:38] FGK: 10k iterations lmao
+[9/25/23, 15:26:40] Ishan Ranjan: yeah that is gonna take a while
+[9/25/23, 15:27:32] Ishan Ranjan: command line is gonna be your friend in cloud computing lol
+[9/25/23, 17:16:31] Ishan Ranjan: yeah we gon have to use an adjacency matrix for 561
+[9/25/23, 17:16:32] Ishan Ranjan: sadge
+[9/25/23, 17:16:37] Ishan Ranjan: cause networkx does the hw for you
+[9/25/23, 17:47:05] FGK: We cant use networkx??
+[9/25/23, 18:02:38] FGK: My guy
+[9/25/23, 18:03:09] Ishan Ranjan: Or at least was talking to a couple or CS tryhard and they scoffed at it
+[9/25/23, 18:03:11] Ishan Ranjan: Lmao
+[9/25/23, 18:03:22] Ishan Ranjan: But from what I’ve seen adjacency matrix can also work
+[9/25/23, 18:03:29] Ishan Ranjan: Cause there are no limits on memory usage
+[9/25/23, 18:03:36] FGK: Yeah but if we’re allowed to use networkx
+[9/25/23, 18:03:38] FGK: Why not
+[9/25/23, 18:03:43] FGK: More efficient
+[9/25/23, 18:03:45] FGK: And its just smart
+[9/25/23, 18:03:51] Ishan Ranjan: Hm true
+[9/25/23, 18:04:10] Ishan Ranjan: Yeah I’d post on piazza asking if we can use it
+[9/25/23, 18:04:28] FGK: R u doing that or u want me to
+[9/25/23, 18:07:07] Ishan Ranjan: I was gonna use adjacancy matrix so
+[9/25/23, 18:07:10] Ishan Ranjan: if you wanna go for it
+[9/25/23, 18:07:50] Ishan Ranjan: I did ask him about using gcfuse or cloud storage client in office hours tho and he did say that use the python client (the google-cloud-storage one)
+[9/25/23, 18:07:58] Ishan Ranjan: for accessing your bucket
+[9/25/23, 18:08:05] FGK: Yeah thats what I do
+[9/25/23, 18:08:21] FGK: Im guessing u didnt ask him about networkx
+[9/25/23, 18:08:26] Ishan Ranjan: yeeeep i forgot
+[9/25/23, 18:08:35] FGK: Lmao
+[9/25/23, 18:08:53] Ishan Ranjan: speaking of i gotta email micah about building access
+[9/25/23, 18:09:00] Ishan Ranjan: cause i cant get up there anymore
+[9/25/23, 18:09:04] Ishan Ranjan: to just go ask him again
+[9/25/23, 18:09:39] FGK: Even after tapping ur card?
+[9/25/23, 18:13:16] FGK: But then
+[9/25/23, 18:13:19] FGK: how are you gonna visualize
+[9/25/23, 18:13:21] FGK: the graph
+[9/25/23, 18:13:35] FGK: Networx lets u do that with a function call
+‎[9/25/23, 18:13:50] Ishan Ranjan: ‎image omitted
+[9/25/23, 18:13:52] FGK: The code to do that manually is gonna be nuts
+[9/25/23, 18:13:54] Ishan Ranjan: hm yeah
+[9/25/23, 18:14:00] Ishan Ranjan: actually true
+[9/25/23, 18:14:09] Ishan Ranjan: we could just use networkx to create the graph
+[9/25/23, 18:14:14] FGK: yeah
+[9/25/23, 18:14:18] Ishan Ranjan: but then just manually implement the pagerank algo
+[9/25/23, 18:14:21] Ishan Ranjan: is that what you did
+[9/25/23, 18:14:25] FGK: Yeah
+[9/25/23, 18:14:28] Ishan Ranjan: gotcha
+[9/25/23, 18:14:28] FGK: Its just giving me an error
+[9/25/23, 18:14:35] FGK: cuz a link can have no outgoing links
+[9/25/23, 18:14:38] FGK: a file***8
+[9/25/23, 18:14:43] FGK: a file ***
+[9/25/23, 18:14:52] FGK: division by zero occurs
+[9/25/23, 18:15:06] Ishan Ranjan: hmmmm true
+[9/25/23, 18:15:25] FGK: Wait I swear the hw file said visualize the graph
+[9/25/23, 18:15:28] FGK: it doesnt say that
+[9/25/23, 18:15:55] FGK: and yeah the file says to compute the pagerank score twice
+[9/25/23, 18:16:01] FGK: second being the original algorithm
+[9/25/23, 18:16:42] Ishan Ranjan: https://stackoverflow.com/questions/21507375/how-does-pageranking-algorithm-deal-with-webpage-without-outbound-links
+[9/25/23, 18:16:45] Ishan Ranjan: i guess yeah
+[9/25/23, 18:17:04] Ishan Ranjan: yeah that is true with the original algorithm a page with no outgoing links should error out
+[9/25/23, 18:18:05] Ishan Ranjan: from what i’m seeing you have to delete these from your graph
+[9/25/23, 18:18:36] FGK: Yeah I guess so
+[9/25/23, 18:18:47] Ishan Ranjan: https://medium.com/@arpanspeaks/handling-dangling-nodes-pagerank-14c31d5b6b62
+[9/25/23, 18:18:56] Ishan Ranjan: he used networkx here
+[9/25/23, 18:20:27] FGK: a student responded to my question
+[9/25/23, 18:20:58] Ishan Ranjan: hm that might have been the guy i talked to
+[9/25/23, 18:21:09] FGK: okay
+[9/25/23, 18:25:04] FGK: and the prof said we gotta use our own code
+[9/25/23, 18:25:07] FGK: for gods sake
+[9/25/23, 18:35:20] Ishan Ranjan: granted in the actual hw assignment it says nothing about visualization
+[9/25/23, 18:35:28] Ishan Ranjan: so i think adjacency matrix should be fine
+[9/25/23, 18:35:32] FGK: for some reason i remember it saying lmao
+‎[9/25/23, 18:35:59] Ishan Ranjan: ‎image omitted
+[9/25/23, 18:36:07] FGK: I know i know
+[9/25/23, 18:47:13] Ishan Ranjan: lmaoooo
+[9/25/23, 20:58:21] FGK: Are you running the code locally
+[9/25/23, 21:19:30] Ishan Ranjan: yeah
+[9/25/23, 21:19:53] Ishan Ranjan: i am adding a requirements.txt for people to run tho
+[9/25/23, 21:20:06] Ishan Ranjan: with the bucket being public it should be able to run from anywhere tho
+[9/25/23, 21:22:14] FGK: Aight
+[9/25/23, 21:42:30] FGK: Bro my code is running for so long its ridiculous
+[9/25/23, 22:12:28] Ishan Ranjan: Damn
+[9/25/23, 22:12:38] Ishan Ranjan: Some ppl used tqdm to show progress lmao
+[9/25/23, 22:13:24] FGK: wtf
+[9/25/23, 22:13:28] FGK: ive never even heard of this
+[9/25/23, 22:13:29] FGK: thats wild
+[9/25/23, 22:13:48] Ishan Ranjan: Yeah
+[9/25/23, 22:13:53] Ishan Ranjan: It’s insNe
+[9/25/23, 22:13:57] Ishan Ranjan: I’m gonna use it
+[9/25/23, 22:14:04] FGK: Aight
+[9/25/23, 22:14:10] FGK: my codes been running for 1.5 hours la
+[9/25/23, 22:14:12] FGK: lmao**
+[9/25/23, 22:14:22] Ishan Ranjan: Oooof
+[9/26/23, 09:55:32] Ishan Ranjan: im literally on my slides from undergrad
+[9/26/23, 09:55:44] FGK: Lmao
+[9/26/23, 09:55:45] Ishan Ranjan: cause this is how common hierarchical is brought up in bioinformatics
+[9/26/23, 09:55:53] Ishan Ranjan: this is literally my lab work
+[9/26/23, 09:55:54] Ishan Ranjan: LOL
+[9/26/23, 09:56:09] FGK: This is free then
+[9/26/23, 09:56:18] FGK: I did this exactly a year ago too
+[9/26/23, 09:56:33] Ishan Ranjan: yeah tbh im wondering why i came to lecture lol
+[9/26/23, 10:00:27] Ishan Ranjan: im waiting for him to go over upgma and to call it day lol
+[9/26/23, 10:00:46] FGK: wtf is that
+[9/26/23, 10:00:49] FGK: i read that as sugma
+‎[9/26/23, 10:00:50] Ishan Ranjan: ‎image omitted
+[9/26/23, 10:01:16] Ishan Ranjan: average linkage basically
+[9/26/23, 10:01:19] Ishan Ranjan: LOL
+[9/26/23, 10:01:23] Ishan Ranjan: SUGMA BALLS
+[9/26/23, 10:01:29] FGK: mf
+[9/26/23, 10:01:33] FGK: npc ass
+[9/26/23, 10:01:58] Ishan Ranjan: https://www.youtube.com/watch?v=KZfq9amWaJg&ab_channel=rkgains
+[9/26/23, 10:02:01] Ishan Ranjan: this guy popped in my mind
+[9/26/23, 10:02:24] FGK: Wtf is this 🤣🤣
+[9/26/23, 10:02:27] Ishan Ranjan: lmaooooo npc ass 💀
+[9/26/23, 10:02:46] Ishan Ranjan: watch it on your own time
+[9/26/23, 10:03:01] FGK: Fosho
+[9/27/23, 16:51:17] Ishan Ranjan: wait so for 561
+[9/27/23, 16:51:21] Ishan Ranjan: and the pagerank stuff
+[9/27/23, 16:51:31] Ishan Ranjan: for the first iteration what did you set the pagerank values to
+‎[9/27/23, 16:53:14] FGK: ‎image omitted
+[9/27/23, 16:54:03] Ishan Ranjan: gotcha
+[9/27/23, 16:54:04] Ishan Ranjan: thanks
+[9/27/23, 16:54:11] FGK: Nw
+[9/27/23, 16:54:18] Ishan Ranjan: yeah just need to do this otherwise im done
+[9/27/23, 16:54:29] Ishan Ranjan: using 100 files to test saved my life LOL
+[9/27/23, 16:54:36] FGK: I’m running my code and getting the division by 0 error lmao
+[9/27/23, 16:54:36] Ishan Ranjan: idk what that dude is on with threadpoolexecutor
+[9/27/23, 16:54:39] Ishan Ranjan: oooof
+[9/27/23, 16:54:47] FGK: I dont understand how literally makes no sense
+[9/27/23, 16:54:54] FGK: Are u verifying with networkx
+[9/27/23, 16:55:01] FGK: You mind if we get on a zoom call in a bit
+[9/27/23, 16:55:03] FGK: To verify
+[9/27/23, 16:55:06] Ishan Ranjan: not at the moment, but yeah i should
+[9/27/23, 16:55:22] FGK: Or later
+[9/27/23, 16:55:30] Ishan Ranjan: yeah sure does like 7 work
+[9/27/23, 17:07:33] FGK: Yep
+[9/27/23, 17:09:31] Ishan Ranjan: sounds good
+[9/27/23, 18:40:46] FGK: Some BS is going on in my bucket
+[9/27/23, 18:40:53] FGK: some files are blank
+[9/27/23, 18:41:05] Ishan Ranjan: the fuck damn
+[9/27/23, 18:41:15] FGK: yeah i try to open them
+[9/27/23, 18:41:17] FGK: and nothing
+[9/27/23, 18:41:25] Ishan Ranjan: oooof
+[9/27/23, 18:41:26] FGK: i deleted them and uploading again now
+[9/27/23, 18:51:27] Ishan Ranjan: gotcha
+[9/27/23, 18:51:28] Ishan Ranjan: also
+[9/27/23, 18:51:34] Ishan Ranjan: do you mind jack and cindy hopping on the zoom
+[9/27/23, 18:56:15] FGK: sure
+[9/27/23, 18:56:23] Ishan Ranjan: bet
+[9/27/23, 18:58:26] FGK: u want me to send the link
+[9/27/23, 18:59:14] Ishan Ranjan: ill send
+[9/27/23, 18:59:34] Ishan Ranjan: https://bostonu.zoom.us/j/99515519320?pwd=QkpvNGRsSThyY1BtekdldjN3N3hrdz09
+[9/27/23, 20:30:33] FGK: are u just gonna instruct them
+[9/27/23, 20:30:37] FGK: to run your file
+[9/27/23, 20:32:11] Ishan Ranjan: Yeah
+[9/27/23, 20:32:18] Ishan Ranjan: Just gonna do a read me
+[9/27/23, 20:32:19] FGK: same
+[9/27/23, 20:32:22] FGK: they want a pdf fie
+[9/27/23, 20:32:25] FGK: file*
+[9/27/23, 20:32:40] Ishan Ranjan: Pdf is gonna be a link
+[9/27/23, 20:33:05] FGK: im gonna include the instructions there too
+[9/27/23, 20:35:37] Ishan Ranjan: ah
+[9/27/23, 20:35:49] Ishan Ranjan: you could just markdown to pds
+[9/27/23, 20:35:51] Ishan Ranjan: pdf
+[9/27/23, 20:35:54] Ishan Ranjan: and make your life easier
+[9/27/23, 20:43:01] FGK: I submitted
+[9/27/23, 20:43:03] FGK: Done with this
+[9/27/23, 20:43:28] Ishan Ranjan: damn
+[10/7/23, 18:54:32] FGK: What time u going to the library?
+[10/7/23, 19:12:21] Ishan Ranjan: maybe we should plan that lol
+[10/8/23, 09:10:30] FGK: R u there already
+[10/8/23, 09:51:17] Ishan Ranjan: Nah got up just now
+[10/8/23, 09:51:26] Ishan Ranjan: Should be there in an hour latest
+[10/8/23, 10:00:47] FGK: Bet
+[10/8/23, 13:55:35] FGK: We’re in front of
+[10/8/23, 13:55:37] FGK: The library
+[10/8/23, 13:55:42] FGK: Like next to the entrance sitting
+[10/8/23, 13:55:51] Ishan Ranjan: Kk
+[10/8/23, 13:55:57] Ishan Ranjan: Is my stuff still there
+[10/8/23, 13:56:03] FGK: What stuff
+[10/8/23, 13:56:09] FGK: We’re not inside
+[10/8/23, 13:56:15] Ishan Ranjan: Oh lol
+[10/8/23, 13:56:16] FGK: Lmao
+[10/8/23, 13:56:20] FGK: Anush and Jack
+[10/8/23, 13:56:23] FGK: Are inside
+[10/8/23, 13:56:26] Ishan Ranjan: Gotcha I was a lil confused haha
+[10/8/23, 13:56:28] FGK: Lol
+[10/8/23, 13:59:19] FGK: We’re going back in
+[10/8/23, 22:26:32] FGK: U watching the game?
+[10/8/23, 22:29:34] Ishan Ranjan: yeah
+[10/8/23, 22:29:59] FGK: Purdy is insane
+[10/8/23, 22:30:10] Ishan Ranjan: BIG COCK BROCK
+[10/8/23, 22:30:16] Ishan Ranjan: i love having him on our team
+[10/8/23, 22:31:21] FGK: 🤣🤣
+[10/9/23, 01:41:44] Ishan Ranjan: Brock what the fuck
+[10/9/23, 01:41:49] Ishan Ranjan: That game holy
+[10/9/23, 08:47:58] FGK: Dude wya
+[10/9/23, 18:07:50] Ishan Ranjan: Just call me when you’re here
+[10/9/23, 18:08:03] Ishan Ranjan: Gotta come back out cause my roommate let me in lol
+[10/9/23, 18:10:44] FGK: Gotchu
+[10/9/23, 18:12:54] FGK: Send location
+[10/9/23, 18:13:00] FGK: On my way to u
+[10/9/23, 18:20:40] FGK: 5 minutes
+[10/9/23, 18:25:45] FGK: Here
+[10/9/23, 18:25:52] FGK: I went past a bit
+[10/9/23, 18:25:56] FGK: In front of Dominos
+[10/9/23, 18:25:59] Ishan Ranjan: kk coming
+[10/11/23, 13:05:34] Ishan Ranjan: https://www.reddit.com/r/formula1/comments/174y94f/f1_has_released_the_official_schedule_for_the_las/
+[10/11/23, 13:05:36] Ishan Ranjan: the fuck lol
+[10/11/23, 13:05:45] Ishan Ranjan: 12 am qualifying PT
+[10/11/23, 13:05:48] Ishan Ranjan: thats 3am
+[10/11/23, 13:25:51] FGK: Thats criminal
+[10/11/23, 13:28:58] Ishan Ranjan: Frfr
+[10/11/23, 18:01:36] Ishan Ranjan: You coming to yellow corner?
+[10/11/23, 18:01:48] FGK: Yeah
+[10/11/23, 18:01:54] FGK: Driving
+[10/11/23, 18:01:58] Ishan Ranjan: Ooo
+[10/11/23, 18:05:43] FGK: Parking 💀
+[10/11/23, 18:07:18] FGK: Ima have to walk
+[10/11/23, 18:07:26] FGK: So sorry
+[10/11/23, 18:07:36] Ishan Ranjan: Ur good lol
+[10/11/23, 18:07:44] Ishan Ranjan: Did you park at home
+[10/11/23, 18:07:50] FGK: Going to yeah
+[10/11/23, 18:07:58] Ishan Ranjan: Ah kk yeah I was about to leave so
+[10/11/23, 18:08:03] Ishan Ranjan: Tbh all good lol
+[10/11/23, 18:08:10] Ishan Ranjan: Where did you go
+[10/11/23, 18:08:18] FGK: Sure?
+[10/11/23, 18:08:24] FGK: Wym
+[10/11/23, 18:08:31] FGK: I didnt find a spot
+[10/11/23, 18:08:35] Ishan Ranjan: Ooooooh
+[10/11/23, 18:08:37] FGK: So was gonna park at home
+[10/11/23, 18:08:37] Ishan Ranjan: Damn
+[10/11/23, 18:08:39] Ishan Ranjan: Ooof
+[10/11/23, 18:08:42] FGK: And walk
+[10/11/23, 18:08:48] FGK: But if you’re leaving
+[10/11/23, 18:08:52] FGK: I’ll stay home lol
+[10/11/23, 18:09:02] Ishan Ranjan: Yeah haha
+[10/11/23, 18:09:05] Ishan Ranjan: I’m tired as fuck
+[10/11/23, 18:09:13] Ishan Ranjan: That’s a plan LOL
+[10/11/23, 18:09:20] FGK: Same
+[10/11/23, 18:09:27] Ishan Ranjan: we’ll study sesh tmw or some other day
+[10/11/23, 18:11:29] FGK: Bet sounds good
+[10/11/23, 18:33:08] FGK: We got our presentation tmrw
+[10/11/23, 18:33:50] FGK: Have u looked at the slides
+[10/11/23, 18:33:53] FGK: I added my part
+[10/11/23, 18:34:04] Ishan Ranjan: Oh fuck true imma look at em in a few mins once I get home ‎<This message was edited>
+[10/11/23, 18:34:08] Ishan Ranjan: On the bus rn
+[10/11/23, 18:34:13] FGK: Okay
+[10/11/23, 19:01:24] FGK: Also feel free to add to the motivation part
+[10/11/23, 19:04:38] FGK: or anywhere for that matter
+[10/11/23, 19:07:05] Ishan Ranjan: For sure
+[10/11/23, 19:16:17] Ishan Ranjan: did you share it with me
+[10/11/23, 19:16:24] FGK: I did yeah
+[10/11/23, 19:16:33] FGK: oh no lmao
+[10/11/23, 19:16:33] FGK: hold on
+[10/11/23, 19:16:45] FGK: now its shared
+[10/11/23, 19:16:48] FGK: let me know when you're donw
+[10/11/23, 19:16:49] FGK: done
+[10/11/23, 19:16:57] FGK: we gotta add our slides to a shared slide deck
+[10/11/23, 20:00:28] Ishan Ranjan: oh bet
+[10/11/23, 20:00:29] Ishan Ranjan: yeah im doen
+[10/11/23, 20:00:41] Ishan Ranjan: just like pretty-fied it and reworded some things
+[10/11/23, 20:06:44] FGK: Great
+[10/12/23, 11:08:07] FGK: lmao everyone's slides
+[10/12/23, 11:08:12] FGK: have a white background
+[10/12/23, 11:08:18] FGK: except ours XD
+[10/12/23, 11:08:27] Ishan Ranjan: True
+[10/12/23, 11:08:33] FGK: how do you wanna divide the talking
+[10/12/23, 11:08:45] Ishan Ranjan: I can take the first slide
+[10/12/23, 11:08:54] Ishan Ranjan: And we can split the last
+[10/12/23, 11:09:09] FGK: bet
+[10/13/23, 12:39:19] FGK: Hey Ishan
+[10/13/23, 12:39:33] FGK: Im doing a user study for my research
+[10/13/23, 12:39:42] FGK: You wanna be a part of it
+[10/13/23, 12:39:53] FGK: We’re gathering people to test out the app and provide feedback
+[10/13/23, 12:40:06] Ishan Ranjan: Is this for a class
+[10/13/23, 12:40:11] FGK: No
+[10/13/23, 12:40:32] FGK: Working with a phd student at BU
+[10/13/23, 12:40:33] Ishan Ranjan: Oh damn
+[10/13/23, 12:40:37] Ishan Ranjan: Aaah nice
+[10/13/23, 12:40:41] Ishan Ranjan: Yeah sure
+[10/13/23, 12:41:30] FGK: We’ve only built an installer for Windows
+[10/13/23, 12:41:53] FGK: Since thats what our target audience uses
+[10/13/23, 12:42:05] FGK: So we can do it at my place over the weekend
+[10/13/23, 12:42:12] FGK: Not gonna take a long time
+[10/13/23, 13:06:57] Ishan Ranjan: ah fuck yeah i only have mac
+[10/13/23, 13:07:15] Ishan Ranjan: but i mean if i could use it on your pc or something
+[10/13/23, 13:07:32] FGK: Yeah that’s exactly the plan
+[10/13/23, 13:07:38] Ishan Ranjan: or wait i totally forgot
+[10/13/23, 13:07:42] Ishan Ranjan: i have my gaming laptop with me
+[10/13/23, 13:07:47] FGK: Oh shit u do
+[10/13/23, 13:07:48] Ishan Ranjan: i can just use that bc windows
+[10/13/23, 13:07:55] Ishan Ranjan: yeah its at my apartment but i can bring it for this
+[10/13/23, 13:07:56] FGK: Thats fire
+[10/13/23, 13:08:05] FGK: Sure lets schedule a time
+[10/13/23, 13:08:09] FGK: We meet for like an hour
+[10/13/23, 13:08:10] FGK: And donit
+[10/13/23, 13:08:12] FGK: Do it*
+[10/13/23, 13:08:19] Ishan Ranjan: bet yeah sunday morning adn afternoon are the best for me
+[10/13/23, 13:08:33] FGK: Sounds great
+[10/15/23, 14:28:48] FGK: Yo
+[10/15/23, 14:28:51] FGK: What times u free today
+[10/15/23, 14:28:58] FGK: To do the testing thing
+[10/15/23, 20:22:02] Ishan Ranjan: fuck i just saw this
+[10/15/23, 20:22:05] Ishan Ranjan: does anytime tmw work
+[10/15/23, 20:31:32] FGK: Tmrw only after 8pm
+[10/15/23, 20:41:03] Ishan Ranjan: Aight bet
+[10/16/23, 21:28:04] FGK: Yo
+[10/16/23, 21:28:12] FGK: Im too tired to do the testing
+[10/16/23, 21:28:17] FGK: Lets do tomorrow instead
+[10/16/23, 21:28:22] Ishan Ranjan: i was thinking we could do it after class tmw
+[10/16/23, 21:28:28] Ishan Ranjan: grab lunch and do it
+[10/16/23, 21:28:29] FGK: Sounds good
+[10/17/23, 09:08:00] FGK: Greatest presentation of all time coming up at 11
+[10/17/23, 09:08:16] Ishan Ranjan: Frfr
+[10/17/23, 09:09:47] FGK: You going to 701?
+[10/17/23, 09:09:54] Ishan Ranjan: Nah
+[10/17/23, 09:19:59] FGK: Lol
+[10/17/23, 18:00:16] FGK: u wanna do the test in an hour?
+[10/17/23, 18:14:26] Ishan Ranjan: I got meetings tonight unfort
+[10/17/23, 18:14:32] Ishan Ranjan: Can you send me the code
+[10/17/23, 18:14:40] Ishan Ranjan: And we can prob meet up before 561 tmw and do it
+[10/17/23, 18:15:19] FGK: Code for what?
+[10/17/23, 18:41:47] Ishan Ranjan: Oh I meant like
+[10/17/23, 18:41:57] Ishan Ranjan: The git repo or the app
+[10/17/23, 18:42:02] Ishan Ranjan: So I can download it
+[10/17/23, 18:59:05] FGK: oh right
+[10/17/23, 18:59:06] FGK: one sec
+[10/17/23, 18:59:16] FGK: https://github.com/hicsail/cameramousejs
+[10/17/23, 18:59:20] FGK: its in the releases tab
+[10/17/23, 19:02:56] Ishan Ranjan: Bett thanks
+[11/3/23, 13:59:39] Ishan Ranjan: When do you want to meet to get the annotated bib done?
+[11/3/23, 13:59:48] Ishan Ranjan: Or is it individual
+[11/3/23, 14:03:39] FGK: Oh right
+[11/3/23, 14:03:39] FGK: Um
+[11/3/23, 14:03:47] FGK: We can start on our own I think
+[11/3/23, 14:03:56] FGK: And then meet on Sunday
+[11/3/23, 14:04:09] FGK: Hows that
+[11/3/23, 14:04:13] Ishan Ranjan: sounds good
+[11/3/23, 14:04:16] FGK: Bet
+[11/3/23, 14:04:27] Ishan Ranjan: i got cooked on the last provocation so im just tryna ball with the ones going forward lolll
+[11/3/23, 14:04:37] FGK: I got shafted too lmao
+[11/3/23, 14:04:47] Ishan Ranjan: bruh i was like
+[11/3/23, 14:04:50] Ishan Ranjan: whens the drop deadline again
+[11/3/23, 14:04:54] FGK: 🤣🤣
+[11/3/23, 14:05:03] Ishan Ranjan: and then i looked at my participation scores and my reflections and i was like
+[11/3/23, 14:05:10] Ishan Ranjan: ok if we pull the final project off
+[11/3/23, 14:05:15] Ishan Ranjan: i cna live with a b in a writing class
+[11/3/23, 14:05:25] FGK: You can look up the particpations scores?
+[11/3/23, 14:05:33] Ishan Ranjan: its based off the in class activities no
+[11/3/23, 14:05:34] Ishan Ranjan: ?
+[11/3/23, 14:05:44] Ishan Ranjan: cause how else does she have a record of us
+[11/3/23, 14:05:50] FGK: Probably
+[11/3/23, 14:05:58] FGK: Maybe how active you were
+[11/3/23, 14:06:01] FGK: During discussions
+[11/3/23, 14:06:22] Ishan Ranjan: hm true but if you are active during the second half i think she’ll prob give benefit of the doubt tbh
+[11/3/23, 14:17:20] Ishan Ranjan: Have you started on cloud computing
+[11/3/23, 14:19:51] FGK: She doesnt look strict as hell either
+[11/3/23, 14:19:53] FGK: We’ll see
+[11/3/23, 14:20:00] FGK: Pretty much done
+[11/3/23, 14:20:12] FGK: I just need the code to get all 100,000 requests
+[11/3/23, 14:21:18] Ishan Ranjan: Gotcha yeah I’m just tryna get my stuff to just read from the database today
+[11/3/23, 14:21:27] Ishan Ranjan: As well do the 100k requests
+[11/3/23, 16:03:25] Ishan Ranjan: Well i got the data from the database
+[11/3/23, 16:03:32] Ishan Ranjan: Time to do the 100k requests
+[11/3/23, 16:06:21] FGK: Nice
+[11/4/23, 14:33:28] FGK: We going to the game
+[11/4/23, 15:28:27] FGK: ??
+[11/4/23, 15:28:53] Ishan Ranjan: Sure
+[11/4/23, 15:34:09] FGK: What time are you getting there
+[11/4/23, 16:59:05] Ishan Ranjan: Prob like 6:30/6:45
+[11/4/23, 17:30:57] FGK: Aight bet
+[11/4/23, 19:19:58] FGK: Dude
+[11/4/23, 19:20:12] Ishan Ranjan: Just got here
+[11/4/23, 19:20:31] FGK: Where?
+[11/4/23, 19:21:04] Ishan Ranjan: Just got my ticket scanned
+[11/4/23, 19:21:10] Ishan Ranjan: Wya
+[11/4/23, 19:21:14] FGK: Bruh what
+[11/4/23, 19:21:21] FGK: Entering
+[11/4/23, 19:21:27] Ishan Ranjan: Oh lmao
+[11/4/23, 19:22:07] FGK: Which side
+[11/4/23, 19:22:09] FGK: Did u go up
+[11/4/23, 19:22:17] Ishan Ranjan: I went right
+[11/4/23, 19:22:22] Ishan Ranjan: Sorry left
+[11/4/23, 19:22:25] Ishan Ranjan: Did you go right
+[11/4/23, 19:22:37] FGK: Wtf is left right
+[11/4/23, 19:22:39] FGK: Which sections
+[11/4/23, 19:22:53] Ishan Ranjan: Let’s meet outside section 107
+[11/5/23, 12:44:53] Ishan Ranjan: I’m gonna be at/near the Public Library
+[11/5/23, 12:44:57] Ishan Ranjan: So we could meet there tbh
+[11/5/23, 12:45:03] Ishan Ranjan: Capital one cafe maybe?
+[11/5/23, 12:45:53] FGK: Can we watch the game there?
+[11/5/23, 12:46:02] FGK: I was looking for the bar experience lmao
+[11/5/23, 12:46:11] Ishan Ranjan: No I meant for 587
+[11/5/23, 12:46:14] Ishan Ranjan: 💀
+[11/5/23, 12:46:18] FGK: Oh 🤣🤣
+[11/5/23, 12:46:30] FGK: I forgot abt that
+[11/5/23, 12:46:35] FGK: Could you meet over zoom instead
+[11/5/23, 12:46:40] Ishan Ranjan: Yeah that works
+[11/5/23, 12:46:44] FGK: Im actually working on my prompts and results rn
+[11/5/23, 12:46:48] Ishan Ranjan: Oh bet
+[11/5/23, 12:46:50] FGK: We have more time than I thought btw
+[11/5/23, 12:46:53] FGK: Thursday
+[11/5/23, 12:46:55] Ishan Ranjan: Oh
+[11/5/23, 12:46:55] FGK: Is the deadline
+[11/5/23, 12:46:59] Ishan Ranjan: Based
+[11/5/23, 12:47:01] Ishan Ranjan: Thank fuck
+[11/5/23, 12:47:05] FGK: Yeah lmao
+[11/5/23, 12:47:12] FGK: And it looks like we should do them separately?
+[11/5/23, 12:47:15] Ishan Ranjan: My 100k requests for 561 are running rn lmao I was gonna finish that today
+[11/5/23, 12:47:29] Ishan Ranjan: Hm we should converge on some sources and then like maybe peer review
+[11/5/23, 12:47:33] Ishan Ranjan: So we don’t each get shafted
+[11/5/23, 12:47:45] Ishan Ranjan: I’m also gonna finish it off and get to office hours for her to review it
+[11/5/23, 12:47:47] FGK: Yeah sounds good
+[11/5/23, 12:47:56] FGK: Bet I’ll do that too then
+[11/5/23, 12:48:57] Ishan Ranjan: Sounds good we can meet later in the week for that then xD
+[11/5/23, 12:49:00] Ishan Ranjan: Imma just grind 561
+[11/5/23, 12:49:12] FGK: Yep sounds good lol
+[11/5/23, 14:36:38] Ishan Ranjan: wait btw for prompts are you like focusing on racial and political bias
+[11/5/23, 14:36:59] FGK: Mostly political so far
+[11/5/23, 14:37:00] FGK: Yeah
+‎[11/5/23, 14:37:13] FGK: ‎image omitted
+[11/5/23, 15:15:49] FGK: What do you think
+[11/5/23, 15:17:19] Ishan Ranjan: ok hm could you put these in a doc
+[11/5/23, 15:17:29] FGK: Sure
+[11/5/23, 15:17:32] Ishan Ranjan: we could just work on em together then yeah
+[11/5/23, 15:17:45] Ishan Ranjan: good premises, we could add follow-ups and make some of these more specific
+[11/5/23, 15:17:56] Ishan Ranjan: we could also talk with alison during OO for feedback
+[11/5/23, 15:18:07] FGK: Sounds good
+[11/5/23, 15:33:26] FGK: Shared ut
+[11/5/23, 15:33:29] FGK: It*
+[11/5/23, 15:33:35] FGK: I feel like there’s more room for analysis
+[11/5/23, 15:33:37] Ishan Ranjan: bet
+[11/5/23, 15:33:44] FGK: With the image generators
+[11/5/23, 15:33:44] Ishan Ranjan: yeah ill look thru and add
+[11/5/23, 15:33:55] FGK: Than the textual models
+[11/5/23, 15:44:17] Ishan Ranjan: That’s true yeah
+[11/5/23, 15:44:17] Ishan Ranjan: It’s gonna be a little non political with the textual ones I feel
+[11/5/23, 15:44:33] FGK: Yeah I can't make it say smth stupid
+[11/5/23, 15:44:48] FGK: Like I saw someone ask about the israel Palestine conflict online
+[11/5/23, 15:44:49] Ishan Ranjan: that’s why maybe using followups would work but
+[11/5/23, 15:44:51] Ishan Ranjan: yeah
+[11/5/23, 15:44:59] FGK: and it basically said that Israel has a right to self-defense
+[11/5/23, 15:45:09] FGK: but for Palestine it basically said  "its tricky"
+[11/5/23, 15:45:26] FGK: But now that I am testing it it just says both have the right
+[11/5/23, 15:45:38] FGK: and that its a highly debated, complex topic that depends on many factors
+[11/5/23, 15:54:10] Ishan Ranjan: True but like you kinda have to edge it to make it pick one
+[11/5/23, 16:20:19] FGK: I also shared a folder with you
+[11/5/23, 16:20:25] FGK: Contains the results of my prompts
+[11/5/23, 16:20:27] FGK: on the models
+[11/5/23, 16:43:39] FGK: I’m trying out other text to image models
+[11/5/23, 16:43:43] FGK: They’re so ass 💀
+[11/5/23, 16:45:43] Ishan Ranjan: Lmaoooo
+[11/5/23, 17:00:28] FGK: I feel like I have good prompts for political bias
+[11/5/23, 17:00:52] FGK: If you have suggestions for prompts that can generate racial bias, lmk
+[11/5/23, 17:01:03] FGK: And I’ll test them and start writing a draft report thing
+[11/5/23, 17:22:01] Ishan Ranjan: dude the pictures are lw fire
+[11/5/23, 17:22:09] Ishan Ranjan: i love how they were like yeah riot? french
+[11/5/23, 17:22:14] FGK: 🤣🤣🤣
+[11/5/23, 17:24:11] Ishan Ranjan: for the visual prompts, lets like add some stuff like “waiter” or “butler” or something like
+[11/5/23, 17:24:21] Ishan Ranjan: or "gangster"
+[11/5/23, 17:31:30] FGK: Thats good
+[11/5/23, 20:21:01] FGK: Wya
+[11/5/23, 20:34:45] Ishan Ranjan: We walkin over rn
+[11/5/23, 20:34:54] Ishan Ranjan: Be there in 5
+[11/5/23, 20:40:28] FGK: Kitchen closes at 9 today lmao
+[11/5/23, 20:40:37] Ishan Ranjan: Oooo
+[11/5/23, 20:40:46] Ishan Ranjan: Yeah we 2 mins away
+[11/7/23, 14:29:03] FGK: Hi Samuel, 
+This is Farid, your lab TA. **Add smtn about "I am writing to you about xxxx** Today was the second time you came to the lab more than 20 minutes late. I let it go the first time, thinking any number of things could have happened, it's 8 am after all. ** Maybe change this to like, I understand that the lab is at 8 am and can be slightly inconvenient, which is why I was willing to let it go the first time.**
+**However, I would like to remind you that punctuality is a part of your lab attendance grade, if you come to the next labs....****
+I'm willing to let it go this time again, but not anymore. If you come to the next labs more than 15 minutes late, I will not be counting your attendance. It is very unfair to people that have been there since 8. **Instead of unfair would write like: Our course staff as well as your fellow students aim to be punctual and professional 
+The policy is that students that attend and are active during labs get full attendance credit for that lab. While I don't force students to be very active, I expect that they come on time and stay for the whole lab. I think that is very reasonable. If you find yourself struggling to wake up for the 8am lab, you have the option of going to a different lab. I can provide you with details if you'd like. Otherwise, I ask you to please try to come to the lab on time (or 5-10 mins late, that is fine). 
+-- 
+Thank you, Farid
+[11/7/23, 14:34:48] Ishan Ranjan: Hi Samuel, 
+
+This is Farid, your lab TA. I am writing to you about your attendance in CS111 lab sections. Today was the second time you came to the lab more than 20 minutes late. I understand that the lab is at 8 am and can be inconvenient, which is why I was willing to let it go the first time you were late. However, I just wanted to remind you that punctuality is a part of your lab attendance grade, if you come to the next labs more than 15 minutes late, I will not be counting your attendance. 
+
+Our course staff as well as your fellow students aim to be as professional as possible (which includes punctuality). It is unfair to the rest of the students in the course to simply show up 20 minutes late and expect to have the same lab attendance grade as those who have been there since 8 AM.
+
+I would like to kindly remind you once again that the policy is that students that attend and are active during labs get full attendance credit for that lab. While I don't force students to be very active, I expect that they come on time and stay for the whole lab. I think that is reasonable. 
+
+If you find yourself struggling to wake up for the 8am lab, you have the option of going to a different lab. I can provide you with details if you'd like. Otherwise, I ask you to please try to come to the lab on time (or 5-10 mins late, that is fine). 
+-- 
+Sincerely,
+Farid Karimli
+[11/7/23, 15:04:18] Ishan Ranjan: https://www.bloomberg.com/graphics/2023-generative-ai-bias/
+
+
+https://arxiv.org/abs/2306.00905
+
+
+https://link.springer.com/article/10.1007/s11127-023-01097-2
+
+https://arxiv.org/abs/2309.00770
+
+https://machinelearning.apple.com/research/gender-bias-llm
+
+https://arxiv.org/abs/2308.10149
+
+https://www.nature.com/articles/s41746-023-00939-z
+
+https://arxiv.org/abs/2309.08573
+[11/7/23, 15:04:34] FGK: 1.	https://link.springer.com/article/10.1007/s13347-022-00512-8
+
+2.	https://www.mdpi.com/2076-0760/12/3/148
+
+3.	https://www.sciencedirect.com/science/article/pii/S0004370221002058?casa_token=2xSFkAv-zhwAAAAA:-dtmh_8mjxQz1mGEzNgwUH0nic4vE8COkdJFgLylUPmIX_pd-8MdTLxOTYltc-EfT7oSzciPxA
+
+4.	https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12567
+
+5.	https://media4.manhattan-institute.org/sites/default/files/the-perils-of-political-and-demographic-biases-embedded-in-ai-systems.pdf
+
+6.	http://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/livingston_jspg_v16.2.pdf
+
+7.	https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11760-022-02246-8&casa_token=owv7NcxrL8MAAAAA:Fkm-z1epNjiAIc2yglAaeJwwlHc34JL95vKqkwOhhm5tylu3fjpQoeybLCMl4V6cqGSvhylrIy63EALU
+
+8.	https://arxiv.org/abs/2004.09456
+
+9.	https://proceedings.neurips.cc/paper/2019/hash/7f018eb7b301a66658931cb8a93fd6e8-Abstract.html
+
+10.	https://www.andrew.cmu.edu/user/ales/cib/bias_in_gen_ai.pdf
+[11/7/23, 15:34:49] FGK: https://vt.tiktok.com/ZSNUEuYSn/
+‎[11/7/23, 15:40:50] Ishan Ranjan: IMG_1585.heic ‎document omitted
+[11/7/23, 18:49:01] FGK: Yo what time do you wanna suggest to meet with prof allison?
+[11/7/23, 18:49:23] Ishan Ranjan: 1 pm
+[11/7/23, 18:49:39] FGK: Tomorrow?
+[11/7/23, 18:49:42] Ishan Ranjan: Ye
+[11/7/23, 18:50:08] Ishan Ranjan: She also said that before class was good
+[11/7/23, 18:50:15] FGK: oh gotchu
+[11/7/23, 18:50:19] FGK: Ima send an email rn
+[11/7/23, 18:50:22] FGK: and CC you
+[11/7/23, 18:50:24] Ishan Ranjan: Bet
+[11/7/23, 18:53:01] FGK: Good evening Prof. McDonald,
+
+Apologies for the late email. Ishan and I wanted to meet you outside of your usual office hours to discuss some aspects of our final project. 
+
+Would you be available to meet tomorrow (Wed 11/7) at 1pm? Alternatively, we also thought of meeting before class on Thursday. 
+
+-- 
+Thank you, 
+Farid
+[11/7/23, 18:53:11] FGK: Lmao do you think its appropriate to ask to meet tomorrow
+[11/7/23, 18:53:12] FGK: right now
+[11/7/23, 18:53:22] FGK: we should have sent this earlier 😭
+[11/7/23, 18:54:14] Ishan Ranjan: Yeah send it
+[11/7/23, 18:54:17] Ishan Ranjan: She’ll see it tmw
+[11/8/23, 10:53:52] FGK: You wanna go to the prof’s office hours tmrw at 10
+[11/8/23, 10:54:06] FGK: She said she cant meet at q
+[11/8/23, 10:54:08] FGK: 1*
+[11/8/23, 10:54:50] Ishan Ranjan: Ye
+[11/8/23, 12:06:22] FGK: Also, did you look over our articles
+[11/8/23, 12:06:30] FGK: are there any overlaps or nah
+[11/8/23, 12:06:42] Ishan Ranjan: I don’t think so, we’re you gonna use the ones that you sent
+[11/8/23, 12:07:05] Ishan Ranjan: Here actually lemme send the ones imma use, I’m p sure most overlap but we have 2-3 unique
+[11/8/23, 12:07:14] Ishan Ranjan: https://link.springer.com/article/10.1007/s11127-023-01097-2
+
+https://arxiv.org/abs/2309.08573
+
+https://link.springer.com/article/10.1007/s13347-022-00512-8
+
+https://www.mdpi.com/2076-0760/12/3/148
+
+https://www.sciencedirect.com/science/article/pii/S0004370221002058?casa_token=2xSFkAv-zhwAAAAA:-dtmh_8mjxQz1mGEzNgwUH0nic4vE8COkdJFgLylUPmIX_pd-8MdTLxOTYltc-EfT7oSzciPxA
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12567
+
+https://media4.manhattan-institute.org/sites/default/files/the-perils-of-political-and-demographic-biases-embedded-in-ai-systems.pdf
+
+http://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/livingston_jspg_v16.2.pdf
+
+https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11760-022-02246-8&casa_token=owv7NcxrL8MAAAAA:Fkm-z1epNjiAIc2yglAaeJwwlHc34JL95vKqkwOhhm5tylu3fjpQoeybLCMl4V6cqGSvhylrIy63EALU
+
+https://arxiv.org/abs/2004.09456
+[11/8/23, 12:07:20] FGK: Both of us should have 2-3 that the other did not review
+[11/8/23, 12:08:32] Ishan Ranjan: kk i think rn we have 2 unique
+[11/8/23, 12:08:38] FGK: Thats fire
+[11/8/23, 12:08:50] Ishan Ranjan: i can find one more for myself so we have 3 differences
+[11/8/23, 12:08:59] FGK: Great
+[11/8/23, 12:09:15] FGK: Lets have mine be mostly about political bias
+[11/8/23, 12:09:17] FGK: and yours on racial
+[11/8/23, 12:09:32] FGK: or vice-versa
+[11/8/23, 12:09:34] Ishan Ranjan: actually sure
+[11/8/23, 12:09:36] Ishan Ranjan: i can do racial
+[11/8/23, 12:09:51] FGK: Its all gonna go into one thing anyway
+[11/8/23, 12:09:57] Ishan Ranjan: yee
+[11/8/23, 12:10:09] FGK: Lets just show that our task are distinct in some way
+[11/8/23, 12:10:13] Ishan Ranjan: She also said to send like one example of a annotation to her if you wanted it reviewed, emailed her abt that
+[11/8/23, 12:10:17] Ishan Ranjan: ye
+[11/8/23, 12:10:38] FGK: Ah I see
+[11/8/23, 12:13:59] Ishan Ranjan: yeee
+[11/8/23, 12:14:04] Ishan Ranjan: also just got some good sources for racial
+[11/8/23, 12:14:07] Ishan Ranjan: so we should be good
+[11/8/23, 12:14:18] FGK: Nice
+[11/8/23, 12:14:19] Ishan Ranjan: imma try to get like 3-4 done before cloud computing so i can send to her
+[11/8/23, 12:14:23] Ishan Ranjan: and see what she says
+[11/8/23, 12:14:26] FGK: So did she give u feedback on urs no
+[11/8/23, 12:14:32] FGK: Ah gotchu
+[11/8/23, 12:14:37] FGK: Lmk how that goes
+[11/8/23, 12:14:55] Ishan Ranjan: bet
+[11/8/23, 20:48:42] FGK: One citation left for me
+[11/8/23, 21:09:41] FGK: wbu?
+[11/8/23, 21:09:44] FGK: I’m done
+[11/8/23, 21:09:51] FGK: Transferring my part to the doc
+[11/8/23, 21:09:58] Ishan Ranjan: Have 2 more will transfer then
+[11/8/23, 21:10:04] FGK: Bet
+[11/8/23, 21:10:06] Ishan Ranjan: Did a couple of my unique ones
+[11/8/23, 21:10:14] Ishan Ranjan: Should be done in an hour or so
+[11/8/23, 21:10:22] FGK: sounds good
+[11/8/23, 22:17:32] FGK: Hows it going
+[11/8/23, 22:17:38] Ishan Ranjan: yeah i got one more
+[11/8/23, 22:17:44] Ishan Ranjan: just finishing that one up rn
+[11/8/23, 22:17:47] Ishan Ranjan: the other two are there
+[11/8/23, 22:17:55] Ishan Ranjan: *on the doc
+[11/8/23, 22:23:02] FGK: Great
+[11/8/23, 22:28:23] Ishan Ranjan: aight im done
+[11/8/23, 22:30:24] FGK: Bet
+[11/8/23, 22:30:26] FGK: Gonna submit
+[11/8/23, 22:30:54] Ishan Ranjan: sounds good did you change up my stuff a lil
+[11/8/23, 22:31:04] Ishan Ranjan: just so that it's not like blatant copying xD
+[11/8/23, 22:36:06] Ishan Ranjan: ‎Missed voice call
+[11/8/23, 22:36:15] FGK: My b
+[11/8/23, 22:36:24] FGK: Whats up
+[11/8/23, 22:36:29] Ishan Ranjan: Yeah was just gonna ask this xD
+[11/8/23, 22:36:39] FGK: I can change it up sure
+[11/8/23, 22:36:52] Ishan Ranjan: Yee cause like she said we can’t have the same annotations
+[11/8/23, 22:37:05] Ishan Ranjan: We can have the same sources tho
+[11/8/23, 22:37:25] Ishan Ranjan: But like yk, we kinda got the summary and recommendations which is the main part
+[11/8/23, 22:42:59] Ishan Ranjan: just send me what you're submitting and I'll just make sure my shit looks different
+[11/8/23, 22:43:26] FGK: Bruh we cant have the same summaries?
+[11/8/23, 22:43:38] Ishan Ranjan: yeah
+[11/8/23, 22:44:00] Ishan Ranjan: but i mean like, we got the gist of each paper which is like the hard part
+[11/8/23, 22:44:08] Ishan Ranjan: now it's just making sure it looks diff ‎<This message was edited>
+[11/8/23, 22:44:35] Ishan Ranjan: "If you are working on your final project with a partner, you both should do the reading and independently create your bibliographies. You are welcome to share a list of papers to review, and to discuss the reading generally, but the annotations should be done independently. I also request that each partner have 2-3 papers that the other partner did not review."
+[11/8/23, 22:45:24] FGK: Gotchu
+[11/8/23, 22:54:11] Ishan Ranjan: ye
+[11/8/23, 23:16:27] FGK: All done
+[11/8/23, 23:16:29] FGK: sending in a bit
+[11/8/23, 23:16:33] Ishan Ranjan: Bet
+‎[11/8/23, 23:18:15] FGK: Provocation 3.pdf • ‎8 pages ‎document omitted
+[11/8/23, 23:18:21] Ishan Ranjan: Bet thanks
+[11/8/23, 23:18:34] Ishan Ranjan: Yeah I’ll just make sure the common shit doesn’t look the same
+[11/8/23, 23:18:36] FGK: Did u change up my things?
+[11/8/23, 23:18:38] Ishan Ranjan: And we should be chillin
+[11/8/23, 23:18:41] Ishan Ranjan: Yeah I did
+[11/8/23, 23:18:43] FGK: Bet
+[11/8/23, 23:18:47] FGK: I significantly changed urs
+[11/8/23, 23:18:51] FGK: on my side
+[11/8/23, 23:18:54] FGK: we should be good
+[11/8/23, 23:18:59] Ishan Ranjan: Bettt ye sounds good
+[11/9/23, 09:56:13] Ishan Ranjan: Gonna be like 10 mins late
+[11/9/23, 09:56:15] Ishan Ranjan: Missed my T
+[11/9/23, 11:20:30] Ishan Ranjan: is freddy here
+[11/9/23, 11:20:33] Ishan Ranjan: i dont see him
+[11/9/23, 12:45:22] FGK: Oh lmao my had
+[11/9/23, 12:45:25] FGK: Didnt see this message
+[11/9/23, 12:45:41] Ishan Ranjan: all good lol
+[11/9/23, 14:58:18] Ishan Ranjan: bro copilot is actually fucking broken
+[11/9/23, 14:58:32] FGK: Lmao I be telling u
+[11/9/23, 14:58:46] Ishan Ranjan: frfr it plotted my graphs for research in like 2 mins
+[11/9/23, 14:58:52] Ishan Ranjan: that with messy ass data
+[11/9/23, 14:58:57] FGK: thats fire
+[11/10/23, 13:18:52] FGK: Yo
+[11/10/23, 13:18:55] FGK: Can we do the testing
+[11/10/23, 13:18:57] FGK: Today or tmrw
+[11/10/23, 13:19:02] Ishan Ranjan: Oh yeah
+[11/10/23, 13:19:07] Ishan Ranjan: Does today work
+[11/10/23, 13:19:09] FGK: Yeah
+[11/10/23, 13:19:11] FGK: Later though
+[11/10/23, 13:19:19] FGK: At like 5-6?
+[11/10/23, 13:19:34] Ishan Ranjan: Ye that works
+[11/10/23, 13:20:46] FGK: Great
+[11/10/23, 15:26:19] FGK: Can u do later than that
+[11/10/23, 15:26:20] FGK: Or nah
+[11/10/23, 15:26:32] Ishan Ranjan: I’m free today so ye
+[11/10/23, 15:26:35] Ishan Ranjan: What time
+[11/10/23, 15:30:00] FGK: Bet
+[11/10/23, 15:30:26] FGK: Let’s do
+[11/10/23, 15:30:28] FGK: 7-7:30
+[11/10/23, 15:30:44] Ishan Ranjan: Your place?
+[11/10/23, 15:31:00] FGK: Didnt u have a pc
+[11/10/23, 15:31:04] FGK: We can do remotely
+[11/10/23, 15:31:10] Ishan Ranjan: Gaming Laptop ye
+[11/10/23, 15:31:12] Ishan Ranjan: Oh bet
+[11/10/23, 15:31:15] FGK: Does it have a cam
+[11/10/23, 17:27:30] Ishan Ranjan: i have an external cam
+[11/10/23, 17:27:41] Ishan Ranjan: but yeah it does have a cam as well
+‎[11/10/23, 17:28:34] Ishan Ranjan: ‎image omitted
+[11/10/23, 17:28:55] Ishan Ranjan: ya think imma use a shitty laptop cam when i got a setup like this LOL
+[11/10/23, 17:31:44] FGK: Oh great
+[11/10/23, 17:32:41] FGK: Bro i got the same camera lmao
+[11/10/23, 17:32:48] Ishan Ranjan: Lmao Jack does as well
+[11/10/23, 17:32:53] Ishan Ranjan: Amazon nexigo ftw ‎<This message was edited>
+[11/10/23, 17:33:05] FGK: Its fire asf
+[11/10/23, 17:33:11] Ishan Ranjan: Frfr
+[11/10/23, 19:02:35] Ishan Ranjan: just lmk whens good
+[11/10/23, 19:11:57] FGK: Bet
+[11/10/23, 19:12:01] FGK: Playing fortnite rn
+[11/10/23, 19:12:07] Ishan Ranjan: lmao bruh whats your ign
+[11/10/23, 19:12:15] FGK: Ign??
+[11/10/23, 19:12:21] Ishan Ranjan: your name on fortnite
+[11/10/23, 19:12:23] Ishan Ranjan: in game name
+[11/10/23, 19:12:40] FGK: Farmudin
+[11/10/23, 19:13:30] Ishan Ranjan: aight added ya
+[11/10/23, 19:13:36] FGK: Fosho
+[11/10/23, 19:14:08] FGK: We should play then
+[11/10/23, 19:14:19] FGK: Ima play one more and we can do the testing
+[11/10/23, 19:14:25] FGK: Meanwhile u wanna download the thing
+[11/10/23, 19:14:30] FGK: And try it out before the actual test
+[11/10/23, 19:14:33] Ishan Ranjan: i downloaded it already
+[11/10/23, 19:14:45] FGK: Was that a few weeks ago
+[11/10/23, 19:14:50] Ishan Ranjan: yeah lol
+[11/10/23, 19:14:54] FGK: Lol
+[11/10/23, 19:14:56] FGK: We updated it
+[11/10/23, 19:15:22] FGK: https://github.com/hicsail/cameramousejs/releases/tag/v0.0.35
+[11/10/23, 19:23:22] FGK: download it again
+[11/10/23, 19:29:20] Ishan Ranjan: aight bet
+[11/10/23, 19:29:22] Ishan Ranjan: just did
+[11/10/23, 19:30:01] Ishan Ranjan: lmk when you ready imma just grind a ranked no build until then lmao
+[11/10/23, 19:31:38] FGK: bet
+[11/10/23, 19:31:53] Ishan Ranjan: I just gotta leave at 9:30 so
+[11/10/23, 19:31:58] Ishan Ranjan: That’s my hard deadline
+[11/10/23, 19:32:00] FGK: oh we got time
+[11/10/23, 19:32:07] Ishan Ranjan: Bet
+[11/10/23, 19:39:52] FGK: lets go
+[11/10/23, 19:41:15] FGK: https://bostonu.zoom.us/j/97705081153?pwd=TXN5eURTTkhORlRyQ1d3eWN0VmpyZz09
+[11/10/23, 19:43:03] FGK: Yo bro
+[11/10/23, 19:48:59] FGK: Yooooo
+‎[11/10/23, 20:42:18] Ishan Ranjan: cameramouse_results.txt ‎document omitted
+[11/12/23, 11:21:53] FGK: We got the progress report due Thursday
+[11/12/23, 11:21:58] FGK: Lets get started on that ASAP
+[11/12/23, 11:33:08] Ishan Ranjan: Oh shit yeah
+[11/12/23, 18:44:25] FGK: lol
+[11/14/23, 17:47:22] Ishan Ranjan: for the project proposal do you want to take the work remaining and I can take the timeline
+[11/14/23, 17:47:30] FGK: Yep
+[11/14/23, 17:47:35] Ishan Ranjan: sounds good
+[11/14/23, 20:20:49] FGK: Dude you're insane
+[11/14/23, 20:21:02] Ishan Ranjan: for what
+[11/14/23, 20:21:06] FGK: The report
+[11/14/23, 20:21:18] FGK: Fire edits
+[11/14/23, 20:21:22] FGK: and mission statement
+[11/14/23, 20:21:44] Ishan Ranjan: oh yeha i mean cleaning up stuff from our proposal and the edits aint that had it's just making it flow
+[11/14/23, 20:21:47] Ishan Ranjan: thats the hard part
+[11/14/23, 20:21:57] FGK: Yessir
+[11/14/23, 20:27:08] FGK: You want me to finish work completed too?
+[11/14/23, 22:09:59] Ishan Ranjan: yeah
+[11/14/23, 22:10:07] Ishan Ranjan: I can finish off the timeline
+[11/14/23, 22:13:40] Ishan Ranjan: I'll just go through and edit the work completed once you're done with it
+[11/14/23, 22:13:45] Ishan Ranjan: make sure it's all tight
+[11/15/23, 13:48:37] FGK: Check out the report
+[11/15/23, 13:48:41] Ishan Ranjan: bet
+[11/15/23, 13:48:43] FGK: I think we’re pretty much done
+[11/15/23, 13:51:23] Ishan Ranjan: yeah ill just put the work remaining into paragraph form but
+[11/15/23, 13:51:26] Ishan Ranjan: otherwise we should be good
+[11/15/23, 13:51:39] FGK: Ah
+[11/15/23, 13:51:40] FGK: Okay
+‎[11/15/23, 14:45:17] Ishan Ranjan: DS587 Project Progress Report.pdf • ‎2 pages ‎document omitted
+[11/17/23, 18:29:10] Ishan Ranjan: what you get on the annotated bib
+[11/17/23, 18:29:42] FGK: 10/10
+[11/17/23, 18:29:47] FGK: Yessir we’re like that fr fr
+[11/17/23, 18:29:49] Ishan Ranjan: oh damn kk i got a 9
+[11/17/23, 18:29:50] Ishan Ranjan: but still
+[11/17/23, 18:29:52] Ishan Ranjan: we like that fr
+[11/17/23, 18:29:53] FGK: What
+[11/17/23, 18:29:54] FGK: Tf??
+[11/17/23, 18:29:59] FGK: That makes 0 sense
+[11/17/23, 18:30:05] Ishan Ranjan: yeah i think i was vague on some of my applications
+[11/17/23, 18:30:10] Ishan Ranjan: but i can request a regrade for it
+[11/17/23, 18:30:15] FGK: Gotchu
+[11/17/23, 19:18:19] Ishan Ranjan: acktually
+[11/17/23, 19:18:22] Ishan Ranjan: yk what
+[11/17/23, 19:18:23] Ishan Ranjan: imma come
+[11/17/23, 19:18:33] Ishan Ranjan: im just gonna wear a mask and protect my voice lol
+[11/17/23, 19:18:42] Ishan Ranjan: been feeling better today
+[11/17/23, 19:18:45] FGK: Gotchu
+[11/17/23, 19:40:31] Ishan Ranjan: I’m here
+[11/17/23, 19:40:34] Ishan Ranjan: Where are y’all
+[11/17/23, 19:40:57] FGK: Section 108
+[11/17/23, 19:40:59] FGK: Right side
+[11/17/23, 19:41:47] FGK: We’re not near the band
+[11/17/23, 19:44:15] Ishan Ranjan: Where in 108
+[11/17/23, 19:44:37] FGK: Right side
+[11/17/23, 19:44:42] FGK: Row 15 or sm shit
+[11/19/23, 23:26:23] FGK: U wanna play?
+[11/19/23, 23:26:43] Ishan Ranjan: Gimme 5
+[11/19/23, 23:26:46] FGK: Aight
+[11/19/23, 23:34:52] Ishan Ranjan: im in disc
+[11/20/23, 01:05:12] FGK: https://vt.tiktok.com/ZSNaEGgq3/
+[11/20/23, 01:05:35] Ishan Ranjan: https://www.tiktok.com/t/ZT8Ug5rr5/
+[11/20/23, 01:05:47] Ishan Ranjan: Bro spent how much?
+[11/20/23, 01:05:55] FGK: Nahhh
+[11/20/23, 01:05:59] FGK: Thats wild fr
+[11/20/23, 01:51:06] Ishan Ranjan: https://www.tiktok.com/t/ZT8Ugpbbw/
+[11/20/23, 09:18:42] FGK: 🤣🤣
+[11/20/23, 12:50:45] FGK: https://vt.tiktok.com/ZSNm69S93/
+[11/21/23, 10:45:04] Ishan Ranjan: https://www.reddit.com/r/hiphopheads/comments/180ei6n/eminem_to_be_featured_in_fortnite_as_a_skin_and/?utm_source=share&utm_medium=mweb
+[11/21/23, 10:45:24] FGK: NO WAY
+[11/21/23, 10:45:29] FGK: IM COPPING THAT SHIT SO FAST
+[11/21/23, 10:45:34] Ishan Ranjan: Frfr
+[11/21/23, 21:59:19] Ishan Ranjan: you wanna go to the hockey game tmw?
+[11/21/23, 21:59:26] Ishan Ranjan: it's against the defending national champs
+[11/21/23, 22:08:23] FGK: I can’t unfortunately
+[11/21/23, 22:08:35] FGK: I forgot about the game and made some plans
+[11/21/23, 22:08:47] Ishan Ranjan: All good
+[11/22/23, 21:24:20] Ishan Ranjan: Do you wanna watch the niners game tmw
+[11/22/23, 21:44:49] FGK: 8pm?
+[11/22/23, 21:45:21] Ishan Ranjan: yeah
+[11/22/23, 21:45:36] FGK: You wanna do it at my place
+[11/22/23, 21:45:41] Ishan Ranjan: sure
+[11/22/23, 21:45:45] FGK: I dont feel like heading out lmao
+[11/22/23, 21:45:49] FGK: We can order in
+[11/22/23, 21:45:52] FGK: Get some beer
+[11/22/23, 21:45:57] Ishan Ranjan: yeah was thinkin that
+[11/22/23, 21:45:59] FGK: Did u talk to Jack abt this
+[11/22/23, 21:46:06] Ishan Ranjan: jack is not in town
+[11/22/23, 21:46:10] Ishan Ranjan: bro is in ny
+[11/22/23, 21:46:23] FGK: Oh damn
+[11/22/23, 21:46:24] FGK: Lmao
+[11/23/23, 12:52:49] FGK: What time you coming
+[11/23/23, 12:52:52] FGK: 8?
+[11/23/23, 12:53:01] Ishan Ranjan: yeah
+[11/23/23, 12:53:07] FGK: Bet
+[11/23/23, 15:21:43] FGK: Can u grab beers on the way
+[11/23/23, 15:21:47] FGK: Or do u want me to get some
+[11/23/23, 15:25:37] Ishan Ranjan: yeah i can grab from blanchards
+[11/23/23, 15:25:40] Ishan Ranjan: whats ur address again
+[11/23/23, 15:25:46] FGK: 135 Pleasant Street
+[11/23/23, 18:18:52] FGK: You wanna order beforehand
+[11/23/23, 18:19:06] Ishan Ranjan: yeah what you feeling
+[11/23/23, 18:19:15] Ishan Ranjan: we could place an order at like 7:30 say?
+[11/23/23, 18:19:27] FGK: Im thinking 7:45
+[11/23/23, 18:19:35] FGK: Im feeling Dominos
+[11/23/23, 18:19:48] FGK: Pizza with sides
+[11/23/23, 18:19:59] FGK: But I’m down for smth else too
+[11/23/23, 18:20:34] Ishan Ranjan: yeah idk if dominos is closed lol
+[11/23/23, 18:20:38] Ishan Ranjan: also blanchards is closed sadge
+[11/23/23, 18:20:41] FGK: Oh right
+[11/23/23, 18:20:44] Ishan Ranjan: so we might have to doordash beer
+[11/23/23, 18:20:43] FGK: Damn…
+[11/23/23, 18:20:45] FGK: Rum it is then
+[11/23/23, 18:20:49] FGK: Oh right lmao
+[11/23/23, 18:20:59] Ishan Ranjan: we also have seltzer too right
+[11/23/23, 18:21:02] FGK: Yeah
+[11/23/23, 18:21:08] Ishan Ranjan: aight yeah we can figure smtn out
+[11/23/23, 18:21:21] FGK: Brt
+[11/23/23, 18:21:22] FGK: Bet
+[11/23/23, 18:21:45] FGK: Do you like Halal Food
+[11/23/23, 18:22:02] FGK: Oh nvm this place has 73 min delivery
+[11/23/23, 18:22:06] Ishan Ranjan: damn
+[11/23/23, 18:31:21] FGK: Lmao the only places open
+[11/23/23, 18:31:23] FGK: Are asian
+[11/23/23, 18:31:27] Ishan Ranjan: xD
+[11/23/23, 18:31:27] FGK: On doordash
+[11/23/23, 18:31:39] FGK: We can do that though I’m down
+‎[11/23/23, 18:32:47] FGK: ‎image omitted
+[11/23/23, 18:32:52] FGK: Theres this place
+[11/23/23, 18:35:47] FGK: Its 42 mins now
+[11/23/23, 18:35:55] FGK: Thats perfect if we order at 7:30
+[11/23/23, 18:35:55] Ishan Ranjan: Damn
+[11/23/23, 18:36:03] Ishan Ranjan: Yeah the chicken also looks good
+[11/23/23, 18:36:04] FGK: This is one of my fav places in Boston
+[11/23/23, 18:36:08] FGK: Its so good
+[11/23/23, 18:36:12] FGK: Shah Halal
+[11/23/23, 18:36:14] FGK: Take a look
+[11/23/23, 18:36:18] Ishan Ranjan: bet
+[11/23/23, 18:41:58] FGK: What do you think
+[11/23/23, 18:42:11] Ishan Ranjan: Sorry just got off a meeting taking a look rn
+[11/23/23, 18:42:37] Ishan Ranjan: Yeah looks good
+[11/23/23, 18:43:13] FGK: You wanna do Shah’s Halal or smth else
+[11/23/23, 18:45:24] Ishan Ranjan: Shahs halal is good
+[11/23/23, 18:46:34] FGK: Bet
+[11/23/23, 18:46:39] FGK: What do you want from there
+[11/23/23, 18:46:53] FGK: I’ll put the food order in you put the beer order in lol
+[11/23/23, 18:46:53] Ishan Ranjan: Get me a chicken cheesesteak
+[11/23/23, 18:46:56] Ishan Ranjan: And we chillin
+[11/23/23, 18:47:20] Ishan Ranjan: What’s ur apartment number
+[11/23/23, 18:47:26] FGK: 606
+[11/23/23, 18:47:29] FGK: U cant enter
+[11/23/23, 18:47:35] FGK: Text me when ur here and I’ll come down
+[11/23/23, 18:47:39] Ishan Ranjan: Do you just do leave it at the door
+[11/23/23, 18:47:40] FGK: Thats it?
+[11/23/23, 18:47:43] FGK: Yeah
+[11/23/23, 18:47:43] Ishan Ranjan: I’m asking for DoorDash lmao
+[11/23/23, 18:47:46] FGK: Oh my b
+[11/23/23, 18:47:50] FGK: Yeah leave at front door
+[11/23/23, 18:48:11] FGK: Any customization
+[11/23/23, 18:48:37] FGK: Oh my god
+[11/23/23, 18:48:41] FGK: They just closed
+[11/23/23, 18:48:48] Ishan Ranjan: Damn
+[11/23/23, 18:48:52] Ishan Ranjan: There’s one in Cambridge
+[11/23/23, 18:49:15] FGK: Oh right lemme see
+[11/23/23, 18:51:22] FGK: Btw if you wanna come early
+[11/23/23, 18:51:23] FGK: Feel free
+‎[11/23/23, 18:52:28] FGK: ‎image omitted
+[11/23/23, 18:56:46] Ishan Ranjan: Yeah looks good
+[11/23/23, 18:56:57] Ishan Ranjan: Yeah imma come early and then order the beer from ur place
+[11/23/23, 18:57:02] FGK: Bet
+[11/23/23, 18:57:03] Ishan Ranjan: Just so that they have my ID
+[11/23/23, 18:57:11] FGK: Gotchu
+[11/23/23, 18:57:20] FGK: When do I put this order in
+[11/23/23, 18:57:32] FGK: 31-46 min
+[11/23/23, 18:57:35] FGK: Delivery time
+[11/23/23, 18:57:56] Ishan Ranjan: Mebbe like in 15?
+[11/23/23, 18:58:01] FGK: Bet
+[11/23/23, 19:11:56] FGK: Ordwr placed
+[11/23/23, 19:43:45] Ishan Ranjan: I’m close will be there in 10
+[11/24/23, 08:35:05] Ishan Ranjan: https://www.tiktok.com/t/ZT8ypXPDX/
+[11/24/23, 08:41:02] FGK: 🤣🤣🤣🤣
+‎[11/24/23, 19:34:36] Ishan Ranjan: ‎video omitted
+[11/27/23, 17:10:03] FGK: Bruh we got a 9/10 on final project progress report
+[11/27/23, 17:10:11] FGK: This bitch is tweaking istg
+[11/27/23, 17:10:23] Ishan Ranjan: i saw
+[11/27/23, 17:10:46] Ishan Ranjan: bro i dont know if anyone in this class is gonna survive with an A fr
+[11/27/23, 17:11:10] Ishan Ranjan: jack and cindy also got 9/10s
+[11/27/23, 17:41:55] FGK: Damn
+[11/27/23, 21:50:50] FGK: YO JOHN CENA IS IN FORTNITE
+[11/27/23, 21:51:00] FGK: AND THE YOU CANT SEE ME EMOTE
+[11/27/23, 22:04:10] Ishan Ranjan: LETS GO
+[11/27/23, 22:04:15] Ishan Ranjan: EPIC GIMME MY VBUCKS
+[11/28/23, 11:30:18] Ishan Ranjan: whats ur venmo btw
+[11/28/23, 11:30:55] FGK: Farid_Karimli
+[11/28/23, 11:31:01] Ishan Ranjan: bet
+[11/28/23, 11:33:45] FGK: What is that 25 for
+[11/28/23, 11:33:47] Ishan Ranjan: aight so stella owed you 25.77 and I owed stell 25.77
+[11/28/23, 11:33:49] Ishan Ranjan: *stella
+[11/28/23, 11:33:50] Ishan Ranjan: so
+[11/28/23, 11:33:51] FGK: Ahh
+[11/28/23, 11:33:53] Ishan Ranjan: yeah
+[11/28/23, 20:25:32] Ishan Ranjan: https://www.tiktok.com/t/ZT8f3NTFq/
+[11/29/23, 14:45:59] Ishan Ranjan: watchu chatgpting
+[11/29/23, 14:46:05] FGK: schema
+[11/29/23, 14:46:07] Ishan Ranjan: ah
+[11/29/23, 15:12:36] Ishan Ranjan: https://www.reddit.com/r/nba/comments/186sofq/tmz_sports_the_inquiry_into_whether_josh_giddey/
+[11/29/23, 15:12:46] Ishan Ranjan: 💀
+[12/2/23, 10:57:59] FGK: I’m gonna start working on the presentation today
+[12/2/23, 11:29:12] FGK: I put into the DS587 Project folder
+[12/3/23, 15:13:18] Ishan Ranjan: Sounds good
+[12/3/23, 15:13:20] Ishan Ranjan: Yeah
+[12/3/23, 15:13:38] Ishan Ranjan: I get back to Boston this evening so will take a look once I land
+[12/3/23, 16:29:15] FGK: you watching this game
+[12/3/23, 16:29:30] Ishan Ranjan: The niners one?
+[12/3/23, 16:35:03] FGK: yeah
+[12/3/23, 18:46:46] Ishan Ranjan: not watching cause im at the airport but following it
+[12/3/23, 18:47:00] Ishan Ranjan: liking the score rn but holding my breath until the game is done cause the eagles are good
+[12/3/23, 19:55:32] Ishan Ranjan: Amazing fucking game
+[12/3/23, 20:43:01] FGK: Couldnt finish watching it
+[12/3/23, 20:43:04] FGK: But that score is fire
+[12/4/23, 20:32:04] Ishan Ranjan: https://www.youtube.com/watch?v=QdBZY2fkU-0
+[12/4/23, 20:32:19] FGK: I literally just watched it
+[12/4/23, 20:32:23] FGK: This shit looks FIRE
+[12/4/23, 20:32:28] Ishan Ranjan: frfr
+[12/5/23, 17:48:22] Ishan Ranjan: https://www.tiktok.com/t/ZT855Ajfj/
+[12/5/23, 20:44:54] FGK: BRUH
+[12/5/23, 20:45:15] FGK: Have you looked at the presentation?
+[12/5/23, 20:45:43] Ishan Ranjan: yeah was gonna do so tn, prob in like half an hour?
+[12/5/23, 20:45:51] FGK: Aight
+[12/5/23, 20:45:55] FGK: Let me know what you think
+[12/5/23, 20:45:58] FGK: and feel free to add anything
+[12/5/23, 20:46:01] Ishan Ranjan: Sounds good
+[12/6/23, 14:10:53] FGK: So what’d u think of the presentation
+[12/6/23, 14:11:08] Ishan Ranjan: i was gonna look at it in cloud computing LOL
+[12/6/23, 14:11:17] Ishan Ranjan: from what i saw the outline was good, we might need to add a lil more
+[12/6/23, 14:11:20] Ishan Ranjan: so will do that tn
+[12/6/23, 14:11:30] Ishan Ranjan: im just swamped with shit to do rn haha
+[12/6/23, 14:11:58] FGK: Okay
+[12/6/23, 19:39:39] Ishan Ranjan: https://www.tiktok.com/t/ZT85G1AtQ/
+[12/6/23, 20:52:13] FGK: are you looking at the presentation
+[12/6/23, 20:53:00] FGK: Lmaooo
+[12/6/23, 20:53:06] FGK: But this is kinda wrong
+[12/6/23, 20:53:12] FGK: Harmon Kardon is the default
+[12/6/23, 20:53:19] Ishan Ranjan: true
+[12/6/23, 20:53:24] FGK: Burmeister or Bowers and Wilkins is the better option
+[12/6/23, 20:53:39] FGK: I kinda focused on my part
+[12/6/23, 20:54:03] FGK: But I guess its both of ours cuz you also tweaked the prompts
+[12/6/23, 21:04:18] Ishan Ranjan: yeah honestly looks good ngl
+[12/6/23, 21:04:35] FGK: Add some parts that talk about the position paper
+[12/6/23, 21:04:38] FGK: and what it will include
+[12/6/23, 21:04:41] FGK: and we good
+[12/6/23, 21:04:59] Ishan Ranjan: sounds good
+[12/7/23, 07:36:28] FGK: Yo
+[12/7/23, 07:36:51] FGK: What bias in visual models are u talking about
+[12/7/23, 07:37:04] FGK: Or did u test on ur own?
+[12/7/23, 07:37:24] Ishan Ranjan: Oh u mean like from the results
+[12/7/23, 07:37:44] Ishan Ranjan: For the ChatGPT ones I put I did on my own
+[12/7/23, 07:37:45] FGK: I didnt find any bias in the image models
+[12/7/23, 07:37:49] Ishan Ranjan: Ah
+[12/7/23, 07:37:50] Ishan Ranjan: Kk
+[12/7/23, 07:37:58] FGK: Like systemic
+[12/7/23, 07:37:59] FGK: Not one off
+[12/7/23, 07:38:07] FGK: Ah
+[12/7/23, 07:38:08] FGK: Gotcha
+[12/7/23, 07:38:09] Ishan Ranjan: Can you change it to show like no depictions of violence
+[12/7/23, 07:38:26] FGK: Sure
+[12/7/23, 07:38:31] FGK: Who’s taking what
+[12/7/23, 07:38:42] FGK: I can do background + methods
+[12/7/23, 07:38:49] FGK: You do the rest?
+[12/7/23, 07:38:54] Ishan Ranjan: Sure
+[12/7/23, 07:38:59] FGK: I’ll do the conclusions
+[12/7/23, 07:39:05] Ishan Ranjan: Sounds good
+[12/7/23, 08:46:24] Ishan Ranjan: Yo are you going to 701
+[12/7/23, 08:46:31] FGK: Yeah
+[12/7/23, 08:46:37] Ishan Ranjan: Are you presenting
+[12/7/23, 08:46:42] FGK: No
+[12/7/23, 08:46:43] FGK: are you
+[12/7/23, 08:46:55] Ishan Ranjan: No I mean u was thinking of skipping
+[12/7/23, 08:47:02] Ishan Ranjan: Is it necessary for us to go to 701
+[12/7/23, 08:47:17] FGK: I believe attendance is mandatory
+[12/7/23, 08:47:33] Ishan Ranjan: Fuck aight
+[12/7/23, 08:47:34] Ishan Ranjan: Bet
+[12/7/23, 08:47:35] FGK: Yeah it is
+[12/7/23, 10:13:29] FGK: Hop off bro
+[12/7/23, 10:13:38] Ishan Ranjan: 💀
+[12/7/23, 10:13:43] Ishan Ranjan: once i finish this reading reflection
+[12/7/23, 10:13:51] FGK: Aint no way 🤣🤣
+[12/7/23, 10:14:02] Ishan Ranjan: wordcounter.net coming in crazy
+[12/7/23, 10:14:31] Ishan Ranjan: wait is this guys name arjun aggarwal
+[12/7/23, 10:14:35] Ishan Ranjan: i know an arjun aggarwal
+[12/7/23, 10:14:35] FGK: yeah
+[12/7/23, 10:14:40] Ishan Ranjan: and that is not this guy
+[12/7/23, 10:14:41] Ishan Ranjan: lmao
+[12/7/23, 10:14:47] FGK: Wow its almost as if
+[12/7/23, 10:14:54] FGK: two people could have the same name
+[12/7/23, 10:14:58] FGK: 🤪🤪🤪🤪
+[12/7/23, 10:30:12] FGK: Glazing 💀
+[12/7/23, 10:30:21] Ishan Ranjan: lmao
+[12/7/23, 10:30:41] Ishan Ranjan: was there any update on that piazza post thing from 111
+[12/7/23, 10:35:35] FGK: Nope
+[12/7/23, 10:35:48] FGK: We have our staff meeting tmrw we’ll address it then
+[12/7/23, 10:35:50] FGK: Probably
+[12/7/23, 10:41:25] Ishan Ranjan: damn
+[12/7/23, 10:41:37] Ishan Ranjan: also just changed the position paper part on the presentation to general findings/research report
+[12/7/23, 10:41:51] Ishan Ranjan: since i doubt we’re gonna be able to stake a specific position on this stuff for gen ai
+[12/7/23, 10:41:58] Ishan Ranjan: given how centrist the responses were
+[12/7/23, 10:42:14] FGK: Yeah thats good
+[12/7/23, 10:42:27] FGK: We can say that our findings made us shift directions
+[12/7/23, 10:42:44] Ishan Ranjan: yep
+[12/7/23, 10:42:52] FGK: Towards figuring out if AI models have become better at being unbiased
+[12/7/23, 10:43:02] FGK: Did u make the change on the big slide deck?
+[12/7/23, 10:43:15] FGK: + for which we can create a timeline
+[12/7/23, 10:43:21] Ishan Ranjan: sounds good
+[12/7/23, 10:43:25] FGK: ^
+[12/7/23, 10:43:27] Ishan Ranjan: oh wait yeah lemme make it on the big one
+[12/7/23, 10:43:30] FGK: Bet
+[12/7/23, 10:44:46] Ishan Ranjan: yeah fixed
+[12/7/23, 10:44:48] Ishan Ranjan: we gucci
+[12/7/23, 10:45:04] FGK: Fosho
+[12/7/23, 10:45:18] Ishan Ranjan: I’ll set up an OH with Allison for like next monday just so that she can review our report and provide initial feedback
+[12/7/23, 10:45:46] FGK: Thats a great idea
+[12/7/23, 11:02:49] FGK: yo my guy wya
+[12/7/23, 11:03:07] Ishan Ranjan: I’m 2 mins away
+[12/7/23, 11:03:18] Ishan Ranjan: Walking into 808 rn
+[12/7/23, 11:04:25] FGK: Let’s do this
+[12/7/23, 11:04:30] FGK: you do background and motivation
+[12/7/23, 11:04:44] FGK: i do methods and the second findings slide
+[12/7/23, 11:05:06] FGK: you also do the first findings slide
+[12/7/23, 11:05:14] FGK: + takeaways
+[12/7/23, 11:05:15] FGK: conclusion
+[12/7/23, 11:05:48] Ishan Ranjan: yeah sounds good
+[12/7/23, 11:06:00] FGK: i do conclusion
+[12/7/23, 11:06:02] FGK: mb
+[12/7/23, 11:06:06] FGK: aight bet
+[12/7/23, 11:06:13] Ishan Ranjan: had to talk with our project group after 701 since we all showed up for the first time
+[12/7/23, 11:06:14] Ishan Ranjan: LOL
+[12/7/23, 11:06:57] Ishan Ranjan: so alternate right
+[12/7/23, 11:08:17] FGK: yeah essentially
+[12/7/23, 11:08:27] FGK: also take a look at the changes i made
+[12/7/23, 11:08:34] FGK: small
+[12/7/23, 11:09:45] Ishan Ranjan: bet
+[12/7/23, 11:10:07] Ishan Ranjan: yeah looks good
+[12/7/23, 11:23:37] Ishan Ranjan: I think we cooked
+[12/7/23, 11:23:44] Ishan Ranjan: fuck covid girl tho
+[12/7/23, 11:23:44] Ishan Ranjan: fr
+[12/7/23, 11:23:48] FGK: XDDDD
+[12/7/23, 11:23:50] FGK: ofsho
+[12/7/23, 11:23:51] FGK: fosho
+[12/7/23, 11:23:52] Ishan Ranjan: freddy asking the real important questions
+[12/7/23, 11:23:59] Ishan Ranjan: if we can answer him we are set
+[12/7/23, 11:24:00] FGK: but u started wylin there for a second
+[12/7/23, 11:24:07] FGK: on communism v capitalism
+[12/7/23, 11:24:10] Ishan Ranjan: u gotta freddy it
+[12/7/23, 11:24:11] FGK: lmaooo
+[12/7/23, 12:52:32] FGK: Yo
+[12/7/23, 12:52:42] FGK: You wanna get started on drafting our write-up
+[12/7/23, 12:52:50] Ishan Ranjan: Ah shit yeah
+[12/7/23, 12:52:56] FGK: Since u said u wanna meet with her on Monsay
+[12/7/23, 12:52:58] FGK: Monday
+[12/7/23, 12:53:06] Ishan Ranjan: Ye I’ll start today
+[12/7/23, 12:53:18] Ishan Ranjan: Goin home to get some rest rn will start it in the evening tbh
+[12/7/23, 12:55:22] FGK: Aight
+[12/8/23, 16:29:14] Ishan Ranjan: https://www.tiktok.com/t/ZT8ahSNqT/
+[12/8/23, 22:43:43] FGK: Yo were u able to figure it out
+[12/8/23, 22:43:46] FGK: The cloud
+[12/9/23, 02:42:01] Ishan Ranjan: Bro I gave up
+[12/9/23, 02:42:05] Ishan Ranjan: Imma submit it late
+[12/9/23, 08:00:41] FGK: Did u start the final report
+[12/9/23, 14:06:41] FGK: ???
+[12/9/23, 14:06:45] Ishan Ranjan: oh yeah
+[12/9/23, 14:07:25] Ishan Ranjan: just made a doc lol, prob gonna get half done today-ish
+[12/9/23, 14:07:29] FGK: Okay
+[12/9/23, 14:07:49] FGK: I’ll start building my timeline today or tomorrow morning
+[12/9/23, 14:08:06] Ishan Ranjan: sounds good, we can just use it as a figure for the paper then
+[12/9/23, 14:08:22] FGK: Yeah and I’ll write the accompanying discussion for it too
+[12/9/23, 14:08:37] FGK: For now start with just the introduction and previous work
+[12/9/23, 14:09:00] FGK: But if u wanna go even further into the test results and examples
+[12/9/23, 14:09:03] FGK: Thats great
+[12/9/23, 14:09:16] Ishan Ranjan: Yee, also I’m gonna move the image/text results and the prompts into a folder called “Supplementary materials"
+[12/9/23, 20:25:39] Ishan Ranjan: https://www.reddit.com/r/BostonU/comments/18el2va/ladies_want_a_homework_simp/
+[12/9/23, 20:36:13] Ishan Ranjan: did you get past the you dont have permissions to give permissions error
+[12/9/23, 20:36:33] FGK: Theres a service account that deployment manager uses
+[12/9/23, 20:36:43] FGK: Give it the owner role
+[12/9/23, 20:37:05] FGK: U dont see it by default you go to service accounts and check show google provided roles/accounts on the right
+[12/9/23, 20:39:03] Ishan Ranjan: ah do you gotta do that before you deploy the yaml
+[12/9/23, 21:49:52] FGK: yeah
+[12/10/23, 09:49:16] FGK: Did you say you wanted to meet with Allison tmrw
+[12/10/23, 09:49:28] Ishan Ranjan: tbh im gonna send her an email today to meet tuesday
+[12/10/23, 09:49:39] Ishan Ranjan: our final thing isnt due until thursday right
+[12/10/23, 09:49:41] FGK: What time?
+[12/10/23, 09:49:49] FGK: I got two presentations on Tuesday
+[12/10/23, 09:49:52] FGK: gonne have to be you
+[12/10/23, 09:49:55] FGK: gonna*
+[12/10/23, 09:49:57] Ishan Ranjan: prob like afternoon-ish? like after class
+[12/10/23, 09:50:03] Ishan Ranjan: yeah thats good with me tbh
+[12/10/23, 09:50:16] FGK: We gotta get started to show her smth if we’re seeing her before that
+[12/10/23, 09:52:03] Ishan Ranjan: yeaaaaa
+[12/10/23, 09:52:13] Ishan Ranjan: im just tryna finish this cloud hw off rq and then work on that
+[12/10/23, 09:52:26] Ishan Ranjan: ill get it done its just yeah finals slog lol
+[12/10/23, 09:52:44] FGK: bro what
+[12/10/23, 09:53:09] FGK: wtf is slog
+[12/10/23, 09:53:17] Ishan Ranjan: grind
+[12/10/23, 09:53:23] FGK: okay
+[12/10/23, 09:53:32] Ishan Ranjan: finals grind**
+[12/10/23, 09:53:34] Ishan Ranjan: ye
+[12/10/23, 10:22:50] FGK: You said you’ll start on Thursday, and the document is still empty. Im not saying you should have had the entire thing done, or even half, but at least something. I know we got a lot of other work, but we gonna get something going now. Our thing is very fragmented rn.
+[12/10/23, 10:23:39] FGK: And I’m not saying only you work on the report, we obviously will work together but we divided tasks long ago
+[12/10/23, 10:24:59] FGK: Do you wanna divide the report rn? I can take the methods, the results and create the timeline figures.
+[12/10/23, 10:50:52] Ishan Ranjan: It is, I was just gonna grind most of it out today but so it’d be easier for us to get it done by Monday, just tryna wrap a lot of things up last minute from my end
+[12/10/23, 10:51:19] Ishan Ranjan: Yeah if you could take the results and timeline figures that would be great, I can finish off the rest
+[12/10/23, 10:51:25] Ishan Ranjan: Since you worked the most with those
+[12/10/23, 10:51:28] FGK: You got it
+[12/10/23, 10:51:32] Ishan Ranjan: Bet
+[12/11/23, 14:38:37] Ishan Ranjan: bruh i swear did allison not see our email at all
+[12/11/23, 14:38:45] FGK: Lol
+[12/11/23, 14:38:47] FGK: Idk
+[12/11/23, 18:07:31] FGK: Fyi i cant make that time
+[12/11/23, 20:54:59] Ishan Ranjan: yeah i figured, ill just stay up and finish the report tn so we can just get it edited tmw
+[12/11/23, 20:55:12] Ishan Ranjan: i kinda wanna just finish off the edits tmw once she gives them to us and then submit ngl
+[12/11/23, 20:55:24] FGK: You’re him
+[12/11/23, 20:55:30] Ishan Ranjan: bro istg
+[12/11/23, 20:55:39] FGK: Do you need anything from me?
+[12/11/23, 20:55:40] Ishan Ranjan: if the rest of my 701 group
+[12/11/23, 20:55:43] Ishan Ranjan: did their work
+[12/11/23, 20:55:49] Ishan Ranjan: i would have so much less shit to do
+[12/11/23, 20:55:58] Ishan Ranjan: its just me jack and will stressin on report rn LOL
+[12/11/23, 20:56:08] FGK: Goddamn
+[12/11/23, 20:56:12] FGK: We got time till Thursday
+[12/11/23, 20:56:14] Ishan Ranjan: nah i got the methods and results so you good
+[12/11/23, 20:56:20] FGK: You can just ask for pointers
+[12/11/23, 20:56:26] Ishan Ranjan: for this ye
+[12/11/23, 20:56:32] FGK: And I can give you what questions I have
+[12/11/23, 20:56:34] Ishan Ranjan: yeah that's what i was gonna do mainly
+[12/11/23, 20:56:42] Ishan Ranjan: sure thing just list em out here or on the doc
+[12/11/23, 20:56:48] FGK: Gotchu
+[12/11/23, 21:02:28] FGK: So essentially if you could show her our results
+[12/11/23, 21:02:34] FGK: Like the most representative examples
+[12/11/23, 21:02:43] FGK: And ask if she thinks this is robuts enough
+[12/11/23, 21:03:21] FGK: And that I was thinking of a quantitative approach - calculating polarity scores of text responses on Trump vs Biden
+[12/11/23, 21:03:41] FGK: for example
+[12/11/23, 21:36:06] Ishan Ranjan: ah yeah we could ask that
+[12/11/23, 21:36:10] Ishan Ranjan: good point
+[12/11/23, 21:36:33] FGK: So we’d have a qualitative and a quantitative approach
+[12/11/23, 21:50:24] Ishan Ranjan: yep
+[12/11/23, 21:50:41] Ishan Ranjan: could we potentially use sentiment as well
+[12/11/23, 21:50:55] Ishan Ranjan: and also can we make a GitHub repo for all of this too
+[12/11/23, 21:51:04] Ishan Ranjan: instead of Gdrive
+[12/11/23, 22:36:34] FGK: Sure
+[12/11/23, 22:39:01] Ishan Ranjan: sounds good
+[12/11/23, 22:56:40] FGK: I’m adding more tests
+[12/11/23, 22:56:42] FGK: to the drtive
+[12/11/23, 22:56:44] FGK: drive*
+[12/11/23, 23:51:04] FGK: Thats what I was talking about
+[12/11/23, 23:51:13] FGK: examine the positive or negative sentiment
+[12/11/23, 23:51:18] FGK: of a given response to a prompt
+[12/12/23, 00:08:01] FGK: Also you say "medical advice based on race"
+[12/12/23, 00:08:05] FGK: I'm not sure what that means lmao
+[12/12/23, 00:08:17] FGK: Cuz we got no prompts like that
+[12/12/23, 09:53:13] Ishan Ranjan: oh yeah true
+[12/12/23, 09:53:45] Ishan Ranjan: i guess like i could just make that more into the previous work where like “oh it’s been shown to have bias in other fields so we were interested in bias in general” kinda thing
+[12/12/23, 09:53:56] FGK: Sure
+[12/12/23, 09:53:58] FGK: You do you gango
+[12/12/23, 09:54:12] Ishan Ranjan: bet
+[12/12/23, 09:54:14] Ishan Ranjan: also how did we do
+[12/12/23, 09:54:22] FGK: Y’all did great
+[12/12/23, 09:54:27] Ishan Ranjan: ayyy thanks
+[12/12/23, 09:54:29] FGK: Yo theres one more Ishan
+[12/12/23, 09:54:32] Ishan Ranjan: yeah
+[12/12/23, 09:54:34] FGK: Lmao
+[12/12/23, 09:54:52] Ishan Ranjan: hes the polar opposite to me
+[12/12/23, 09:55:04] Ishan Ranjan: im just a little memey guy this dude is tall af and looks serious af
+[12/12/23, 09:55:27] FGK: Lmao
+[12/12/23, 11:19:28] Ishan Ranjan: ok yeah also looks we should do sentiment or bias analysis too
+[12/12/23, 11:19:32] Ishan Ranjan: like these guys didd
+[12/12/23, 11:19:46] Ishan Ranjan: for text at least
+[12/12/23, 11:39:13] Ishan Ranjan: ok hm this is fire
+[12/12/23, 11:39:23] FGK: It really is lmao
+[12/12/23, 11:42:24] Ishan Ranjan: lmao all that to get asked the same questions as us
+[12/12/23, 11:42:38] FGK: Thats wild lmao
+[12/12/23, 11:42:43] FGK: and we got like 4 questions
+[12/12/23, 11:42:45] Ishan Ranjan: frfr
+[12/12/23, 11:42:46] FGK: like that fr fr
+[12/12/23, 14:20:12] FGK: So for the report
+[12/12/23, 14:20:17] FGK: Are you gonna work on it later today?
+[12/12/23, 14:20:24] FGK: I wanted to say smth about the findings
+[12/12/23, 14:20:27] FGK: We can do this
+[12/12/23, 14:20:32] Ishan Ranjan: yeah
+[12/12/23, 14:20:47] FGK: You can write like a skeleton of our findings
+[12/12/23, 14:20:51] FGK: High level overview
+[12/12/23, 14:20:57] FGK: I can do more testing
+[12/12/23, 14:21:11] FGK: Get more results and do the polarity score thing
+[12/12/23, 14:21:16] FGK: And we can update accordingly
+[12/12/23, 14:24:26] Ishan Ranjan: true
+‎[12/12/23, 14:24:31] Ishan Ranjan: prov3.pdf • ‎6 pages ‎document omitted
+[12/12/23, 14:30:07] FGK: GPT 4 is actually a G
+[12/12/23, 14:30:11] FGK: refuses to give an opinion ever
+[12/12/23, 14:30:12] FGK: goddamn
+[12/12/23, 14:30:18] Ishan Ranjan: Damn
+[12/12/23, 14:33:07] FGK: Bro we both procrastinated so much on this project
+[12/12/23, 14:33:19] FGK: We could have a much easier time right now 🤣🤣
+[12/12/23, 14:33:24] FGK: But as you know, fuck it we ball
+[12/12/23, 14:52:13] Ishan Ranjan: Lmao fr
+[12/12/23, 14:53:01] FGK: So I added what ChatGpt outputted
+[12/12/23, 14:53:05] FGK: its not ideal
+[12/12/23, 14:53:17] FGK: You can go ahead and just edit it now, making smooth transitions
+[12/12/23, 14:53:37] Ishan Ranjan: sounds goo
+[12/12/23, 14:53:40] Ishan Ranjan: d
+[12/12/23, 14:53:40] FGK: Be sure to mention the authors’ methods
+[12/12/23, 14:53:41] FGK: a lot
+[12/12/23, 14:53:50] FGK: and how they relate to our methodology
+[12/12/23, 14:53:58] Ishan Ranjan: bet, could you also just like bullet point out the main findings
+[12/12/23, 14:54:06] Ishan Ranjan: and then ill just put them and edit into paragraph form
+[12/12/23, 14:54:12] FGK: You can find those in the bibliographies
+[12/12/23, 14:54:17] Ishan Ranjan: from there I can write discussion
+[12/12/23, 14:54:28] Ishan Ranjan: no i meant the one under methods
+[12/12/23, 14:54:57] FGK: Oh our findings
+[12/12/23, 14:55:00] FGK: You gotit
+[12/12/23, 14:55:08] FGK: You mind if I do that by tonight
+[12/12/23, 14:55:15] FGK: Im thinking of doing more testing
+[12/12/23, 14:55:20] FGK: to make this shit more robust
+[12/12/23, 15:04:43] Ishan Ranjan: Yeah that’s fine
+[12/12/23, 18:00:01] Ishan Ranjan: https://chat.openai.com/share/e0e35014-5aee-4d9c-9879-73aa17f17e4c
+[12/12/23, 18:00:02] Ishan Ranjan: bruh damn
+[12/12/23, 18:00:09] Ishan Ranjan: this racial bias filter is GOOD
+[12/12/23, 18:00:15] Ishan Ranjan: scroll down to the last few
+[12/12/23, 18:01:41] Ishan Ranjan: https://chat.openai.com/share/e0e35014-5aee-4d9c-9879-73aa17f17e4c
+[12/12/23, 18:01:44] Ishan Ranjan: I GOT IT TO BE RACIST
+[12/12/23, 18:01:47] Ishan Ranjan: MASSIVE W
+[12/12/23, 18:02:36] Ishan Ranjan: we’re so fucking using this lol
+[12/12/23, 18:02:41] FGK: Lmaooo
+[12/12/23, 18:02:46] FGK: This is all you my guy
+[12/12/23, 18:02:49] FGK: OH
+[12/12/23, 18:02:54] FGK: Maybe we could have
+[12/12/23, 18:03:00] FGK: These approaches
+[12/12/23, 18:03:06] FGK: 1. Normal prompts
+[12/12/23, 18:03:08] Ishan Ranjan: yeah like the super informal talk
+[12/12/23, 18:03:09] Ishan Ranjan: yeah
+[12/12/23, 18:03:10] FGK: 2. Role playing
+[12/12/23, 18:03:16] FGK: Those two
+[12/12/23, 18:03:25] FGK: Thats fire
+[12/12/23, 18:04:17] FGK: What time are we meeting Allison tmrw?
+[12/12/23, 18:04:26] Ishan Ranjan: like 2:30
+[12/12/23, 18:04:30] FGK: Oh shit
+[12/12/23, 18:04:32] FGK: Aight bet
+[12/12/23, 18:04:38] FGK: Thats good actually
+[12/12/23, 18:04:45] FGK: Gives us more time
+[12/12/23, 18:05:46] Ishan Ranjan: yeah
+[12/12/23, 18:05:53] Ishan Ranjan: bruh i cant get it to go on political bias
+[12/12/23, 18:05:59] Ishan Ranjan: looks like the biden trump shit is right
+[12/12/23, 18:08:09] Ishan Ranjan: yeah no dice with political bias even with other figures
+[12/12/23, 18:08:15] Ishan Ranjan: it just stopped role playing
+[12/12/23, 18:09:56] FGK: Okay
+[12/12/23, 18:09:58] FGK: Gotchu
+[12/12/23, 18:10:01] FGK: This is hella nice
+[12/12/23, 18:10:06] Ishan Ranjan: ye
+[12/12/23, 18:10:46] FGK: I like this
+[12/12/23, 18:52:34] FGK: Any other
+[12/12/23, 18:52:38] FGK: Role playing scenarios
+[12/12/23, 18:52:48] FGK: If you can get like 5 in total
+[12/12/23, 18:52:53] FGK: That’d be amazing I think
+[12/12/23, 18:53:05] Ishan Ranjan: bet imma try
+[12/12/23, 18:53:16] Ishan Ranjan: ill write the report without those but if i can get em i will put em in
+[12/12/23, 18:53:23] FGK: Bet
+[12/12/23, 22:23:56] FGK: Yo
+[12/12/23, 22:24:03] FGK: I was working on smth else this evening
+[12/12/23, 22:24:07] FGK: Anything you need from me
+[12/12/23, 22:24:16] FGK: Or smth you’d like me to take over
+[12/12/23, 22:27:01] Ishan Ranjan: I got it
+[12/12/23, 22:27:10] Ishan Ranjan: Is it the 701 report lol
+[12/12/23, 22:27:15] Ishan Ranjan: I’m working on that rn haha
+[12/12/23, 22:27:16] FGK: Nah
+[12/12/23, 22:27:18] FGK: My research
+[12/12/23, 22:27:23] Ishan Ranjan: Aaah gotcha
+[12/12/23, 22:27:30] FGK: Professor wanted some last minute changes lmao
+[12/12/23, 22:27:36] Ishan Ranjan: It be like that
+[12/12/23, 22:27:41] FGK: Ong
+[12/13/23, 11:26:12] FGK: Goddamn ChatGPT just cant budge about politic
+[12/13/23, 11:26:13] FGK: s
+[12/13/23, 11:30:37] FGK: Same with Bard
+[12/13/23, 11:30:52] Ishan Ranjan: yeahhh
+[12/13/23, 11:31:02] Ishan Ranjan: i just put that down as a nogo in the content analysis part
+[12/13/23, 11:31:04] FGK: Im imitating another researcher’s method
+[12/13/23, 11:31:14] FGK: text completion
+[12/13/23, 11:31:25] FGK: “I am a Republican, in the next election I will be voting for..."
+[12/13/23, 11:31:32] FGK: “Abortion should be ..."
+[12/13/23, 11:31:41] FGK: Would not budge
+[12/13/23, 11:31:57] FGK: Yeah make sure you mention the approaches we tried
+[12/13/23, 11:32:09] FGK: our prompts, role playing, text completion
+[12/13/23, 11:32:17] FGK: i also gave it a political spectrum quiz, same thing
+[12/13/23, 12:39:21] FGK: https://vt.tiktok.com/ZSNqQ5ukc/
+[12/13/23, 12:51:02] FGK: Also, we meeting Allison today?
+[12/13/23, 13:19:34] Ishan Ranjan: yeah
+[12/13/23, 13:19:39] Ishan Ranjan: at like 2:30
+[12/13/23, 13:19:44] FGK: Gotchu
+[12/13/23, 13:20:22] FGK: I gotta meet my research professor at 2
+[12/13/23, 13:20:47] Ishan Ranjan: gotcha, yeah i think she said anytime during office hours was good
+[12/13/23, 13:20:53] Ishan Ranjan: which means like 2:30-3:30
+[12/13/23, 13:20:58] Ishan Ranjan: so we can just do 2:45 if that works
+[12/13/23, 13:21:05] FGK: Gotchu
+[12/13/23, 13:49:55] FGK: Yo
+[12/13/23, 13:49:58] FGK: stability AI wildin cant lie
+[12/13/23, 13:50:04] FGK: got some spicy results
+[12/13/23, 13:50:09] Ishan Ranjan: Damn
+[12/13/23, 13:50:16] FGK: iamges
+[12/13/23, 13:50:17] FGK: images
+[12/13/23, 14:00:26] FGK: Yeah the only argument I have for bias in images
+[12/13/23, 14:00:32] FGK: is that it is just US centric
+[12/13/23, 14:00:38] FGK: for strictly political prompts
+[12/13/23, 14:01:01] FGK: the popular ones, chatgpt, stable diffusion and dall-e 2
+[12/13/23, 14:04:46] Ishan Ranjan: Yeah I think we can mention that
+[12/13/23, 14:04:55] Ishan Ranjan: Let’s ask her abt it tho
+[12/13/23, 14:45:49] FGK: Still with my prof
+[12/13/23, 14:45:52] FGK: are you there rn?
+[12/13/23, 14:45:58] Ishan Ranjan: I’m almost there
+[12/13/23, 14:46:08] Ishan Ranjan: Will prob be there at like 2:50
+[12/13/23, 14:46:18] FGK: okay
+[12/13/23, 15:08:38] FGK: Are u with her
+[12/13/23, 15:08:53] Ishan Ranjan: Yeah is there anything you wanna ask
+[12/13/23, 15:09:50] Ishan Ranjan: We’re like pretty much done tho
+[12/13/23, 15:10:38] Ishan Ranjan: I just left
+[12/13/23, 15:10:42] Ishan Ranjan: She said we were mostly good
+[12/13/23, 15:33:45] Ishan Ranjan: lmao bruh shoutout our 701 group members resolving comments on our google doc
+[12/13/23, 15:33:51] Ishan Ranjan: when the report was due fucking YESTERDAY
+[12/13/23, 15:34:02] Ishan Ranjan: istg business students are actually useless
+[12/13/23, 15:41:58] FGK: 🤣🤣🤣🤣🤣🤣🤣🤣
+[12/13/23, 15:42:07] FGK: It’s the thought that counts you know
+[12/13/23, 16:40:13] FGK: Wya gang
+[12/13/23, 17:07:36] Ishan Ranjan: lol where did you end up
+[12/13/23, 17:39:56] FGK: My bad
+[12/13/23, 17:39:58] Ishan Ranjan: ^
+[12/13/23, 17:40:00] FGK: Presentations
+[12/13/23, 17:40:03] Ishan Ranjan: Ah
+[12/13/23, 17:40:04] Ishan Ranjan: Gotcha
+[12/13/23, 17:40:05] FGK: Left side
+[12/13/23, 17:40:08] FGK: Second floor
+[12/13/23, 17:40:11] Ishan Ranjan: Yeah we’re not going until 7
+[12/13/23, 17:40:16] FGK: Bruh
+[12/13/23, 17:40:21] Ishan Ranjan: Are the presentations any good
+[12/13/23, 17:40:23] FGK: Are you working on the report?
+[12/13/23, 17:40:24] FGK: Yeah
+[12/13/23, 17:40:29] FGK: They’re super nice
+[12/13/23, 17:40:29] Ishan Ranjan: Yeah I am haha
+[12/13/23, 17:40:34] Ishan Ranjan: Also do we have to be there
+[12/13/23, 17:40:37] Ishan Ranjan: For presentations
+[12/13/23, 17:40:37] FGK: You’re him
+[12/13/23, 17:40:38] FGK: No
+[12/13/23, 17:40:49] Ishan Ranjan: Ok bet I’ll just finish report then lol
+[12/13/23, 17:40:56] FGK: Bet
+[12/13/23, 17:41:08] FGK: If you want me to do some shit
+[12/13/23, 17:41:10] FGK: Lmk
+[12/13/23, 17:41:13] FGK: I can do it after
+[12/13/23, 17:41:17] FGK: And we verify then submit
+[12/13/23, 17:41:24] FGK: Do we want the sentiment analysis
+[12/13/23, 17:41:46] Ishan Ranjan: yeah she said to add that and polarity scores
+[12/13/23, 17:41:58] Ishan Ranjan: if you could just like write up a little on those we should be good
+[12/13/23, 17:42:02] FGK: You got it
+[12/13/23, 17:42:10] Ishan Ranjan: and yeah maybe make a figure
+[12/13/23, 17:42:11] Ishan Ranjan: yeah
+[12/13/23, 17:42:15] FGK: Oh fosho
+[12/13/23, 17:42:14] Ishan Ranjan: otherwise we good
+[12/13/23, 17:42:23] FGK: So leave that part blank
+[12/13/23, 17:42:28] FGK: I’ll fill in later
+[12/13/23, 17:42:34] Ishan Ranjan: yep, thats what it did
+[12/13/23, 17:42:36] Ishan Ranjan: *I
+[12/13/23, 17:42:44] FGK: Bet bet
+[12/13/23, 17:43:05] Ishan Ranjan: yeah she also said to use GitHub since we have code, I can take care of that if you want. It;s just the notebook in the folder right
+[12/13/23, 17:43:10] Ishan Ranjan: *python notebook
+[12/13/23, 17:43:24] FGK: Yeah
+[12/13/23, 17:43:28] FGK: I gotta add to it though
+[12/13/23, 17:43:41] Ishan Ranjan: ok gotcha yeah lmk once you add and then I’ll just create one
+[12/13/23, 17:44:05] Ishan Ranjan: or actually lemme create a repo and then we can add as we go right
+[12/13/23, 17:44:09] Ishan Ranjan: if that sounds better
+[12/13/23, 17:44:10] FGK: Yep
+[12/13/23, 17:44:11] Ishan Ranjan: whats ur github
+[12/13/23, 17:44:11] FGK: Sure
+[12/13/23, 17:44:15] FGK: Farid-Karimli
+[12/13/23, 17:44:23] Ishan Ranjan: bet
+[12/13/23, 17:45:56] Ishan Ranjan: aight just added ya
+[12/13/23, 17:46:48] FGK: Him fr
+[12/13/23, 17:47:00] Ishan Ranjan: lol ha i try
+[12/13/23, 18:09:47] FGK: U still on the 15th?
+[12/13/23, 18:09:55] Ishan Ranjan: Yeah
+[12/13/23, 18:09:56] FGK: Aight
+[12/13/23, 18:10:04] Ishan Ranjan: U coming?
+[12/13/23, 18:10:13] FGK: Yessir
+[12/13/23, 18:10:30] Ishan Ranjan: Bet
+[12/13/23, 22:38:44] FGK: I started on the sentiment analysis
+[12/13/23, 22:38:49] FGK: But i'm fucking exhausted
+[12/13/23, 22:38:55] FGK: I'll finish it tomorrow morning
+[12/13/23, 22:39:09] Ishan Ranjan: All good g
+[12/13/23, 22:39:11] FGK: and then we can verify together and submit
+[12/13/23, 22:39:16] Ishan Ranjan: Ye sounds good
+[12/13/23, 22:39:18] FGK: Bet
+[12/13/23, 22:39:19] FGK: thanks
+[12/14/23, 00:05:43] FGK: WAIT
+[12/14/23, 00:05:48] FGK: LLAMA 2
+[12/14/23, 00:05:53] FGK: REFUSED TO WRITE A POEM ABOUT TRUMP
+[12/14/23, 00:05:58] FGK: but did it for Biden
+[12/14/23, 01:19:22] Ishan Ranjan: GOATED
+[12/14/23, 10:45:10] FGK: Yo
+[12/14/23, 10:45:18] FGK: I was gonna add sentiment results to two more prompts
+[12/14/23, 10:45:24] FGK: Do you think we need to
+[12/14/23, 10:45:32] FGK: or can we essentially start reviewing
+[12/14/23, 10:45:33] FGK: and submit
+[12/14/23, 10:45:42] FGK: I added a bunch of stuff last night take a look
+[12/14/23, 10:45:50] Ishan Ranjan: Gotcha will do
+[12/14/23, 10:46:05] Ishan Ranjan: Let’s start reviewing and make a submission around like 5-6 pm
+[12/14/23, 10:46:25] Ishan Ranjan: Then if we’re able to add anything by midnight let’s submit again by then
+[12/14/23, 10:54:52] FGK: lets do 6:30?
+[12/14/23, 10:54:59] FGK: yessir
+[12/14/23, 10:57:43] Ishan Ranjan: Yeah sounds good
+[12/14/23, 12:13:47] FGK: ^
+[12/14/23, 12:13:55] FGK: Take a look at that sentiment table
+[12/14/23, 12:14:03] FGK: I’m not sure what prompt to use there
+[12/14/23, 12:14:16] FGK: Cuz I wanna like see how it talks about capitalist stuff
+[12/14/23, 12:14:19] FGK: And communist stuff
+[12/14/23, 12:14:21] Ishan Ranjan: i mean she just said if you have it put it
+[12/14/23, 12:14:22] Ishan Ranjan: like
+[12/14/23, 12:14:30] FGK: Oh wait
+[12/14/23, 12:14:36] Ishan Ranjan: I think we can put the Poem about trump adn biden for now
+[12/14/23, 12:14:36] FGK: I’m just gonna do a poem about capitalism
+[12/14/23, 12:14:38] Ishan Ranjan: and then just add
+[12/14/23, 12:14:38] FGK: And communism
+[12/14/23, 12:14:39] Ishan Ranjan: yeah
+[12/14/23, 12:14:43] Ishan Ranjan: thats fire
+[12/14/23, 12:14:43] FGK: Its there
+[12/14/23, 12:14:45] FGK: Aight bet
+[12/14/23, 12:14:51] Ishan Ranjan: ye i mean keep it
+[12/14/23, 12:14:51] FGK: I just didnt want to have one prompt lmao
+[12/14/23, 12:14:56] Ishan Ranjan: gotcha
+[12/14/23, 12:14:58] FGK: Fosho
+[12/14/23, 12:15:05] FGK: I think I add this
+[12/14/23, 12:15:08] FGK: And we should be good
+[12/14/23, 12:15:12] FGK: This is fire ngl
+[12/14/23, 12:15:15] Ishan Ranjan: yeah it looks pretty good
+[12/14/23, 12:15:14] FGK: We cooked
+[12/14/23, 12:15:17] Ishan Ranjan: frfr
+[12/14/23, 12:15:19] Ishan Ranjan: gj chief
+‎[12/14/23, 12:15:20] FGK: ‎sticker omitted
+[12/14/23, 12:31:29] FGK: Can you out
+[12/14/23, 12:31:30] FGK: Put
+[12/14/23, 12:31:40] FGK: Gpt 3.5 racist thing
+[12/14/23, 12:31:41] FGK: On the doc
+[12/14/23, 12:33:18] Ishan Ranjan: I did
+[12/14/23, 12:33:25] Ishan Ranjan: Or like the convo
+[12/14/23, 12:33:36] FGK: The image yeah
+[12/14/23, 12:33:45] Ishan Ranjan: Ah gotcha
+[12/14/23, 15:04:43] FGK: Aight im pretty much done
+[12/14/23, 15:04:49] FGK: Just decided to knock this out
+[12/14/23, 15:04:54] FGK: I think we’re okay
+[12/14/23, 15:04:54] Ishan Ranjan: Bet
+[12/14/23, 15:05:01] FGK: If you could just look it over
+[12/14/23, 15:05:11] FGK: make sure everything is consistent, like the findings and the discussion
+[12/14/23, 15:05:16] FGK: and the related work
+[12/14/23, 15:05:23] Ishan Ranjan: Yeah I got a meeting with my lab prof at 4, will look at it and put finishing touches on it right after
+[12/14/23, 15:05:36] FGK: Bet
+[12/14/23, 15:05:47] FGK: Lmk if you want me to look at smth
+[12/14/23, 15:05:54] FGK: I can after 6
+[12/14/23, 16:51:49] Ishan Ranjan: Aight yeah I looked over it
+[12/14/23, 16:51:58] Ishan Ranjan: Added in figure numbers and shit
+[12/14/23, 16:52:03] Ishan Ranjan: But otherwise it looks good
+[12/14/23, 16:52:11] Ishan Ranjan: If you want to take a look at it one last time
+[12/14/23, 16:52:21] Ishan Ranjan: Oh yeah and we gotta add stuff to the GitHub repo
+[12/14/23, 16:54:16] FGK: Will do once im home
+[12/14/23, 16:54:19] FGK: Thanks
+[12/14/23, 16:54:25] FGK: Do we really have to 😭
+[12/14/23, 16:54:31] FGK: Just straight grunt work
+[12/14/23, 16:54:42] Ishan Ranjan: i mean I can do it
+[12/14/23, 16:54:50] Ishan Ranjan: just put all your code in the drive
+[12/14/23, 16:54:54] Ishan Ranjan: and ill just move it all to GH
+[12/14/23, 16:56:00] FGK: Its all in there already
+[12/14/23, 16:56:06] FGK: I can do it no worries
+[12/14/23, 16:56:20] Ishan Ranjan: Aight sounds good
+[12/14/23, 16:56:21] FGK: I just thought abt its not much work lmao
+[12/14/23, 16:56:42] Ishan Ranjan: True
+[12/14/23, 16:57:00] Ishan Ranjan: But yeah I think we’re good to submit tbh
+[12/14/23, 16:57:17] FGK: Thats fire
+[12/14/23, 18:57:54] FGK: Oh bruh
+[12/14/23, 18:57:56] FGK: im so dumb
+[12/14/23, 18:58:08] FGK: Stability AI is stable diffusion
+[12/14/23, 18:58:08] FGK: lmao
+[12/14/23, 18:58:12] Ishan Ranjan: Ah lmao
+[12/14/23, 18:58:20] FGK: gotta change it
+[12/14/23, 18:58:25] Ishan Ranjan: Ah yeah
+[12/14/23, 18:58:33] Ishan Ranjan: Im almost home so I can just get on it rq
+[12/14/23, 18:58:35] Ishan Ranjan: Unless you got it
+[12/14/23, 18:58:45] FGK: Doing it rn no worries
+[12/14/23, 18:58:50] Ishan Ranjan: Oh bet ty man
+[12/14/23, 18:58:55] FGK: ofc
+[12/14/23, 19:25:12] FGK: Goddamn this github upload taking a while the hell
+[12/14/23, 19:37:01] FGK: Aight
+[12/14/23, 19:37:03] FGK: We’re good
+[12/14/23, 19:37:05] FGK: Lets submit
+[12/14/23, 19:37:10] FGK: I’ll let you do the honors
+[12/14/23, 19:37:14] FGK: If u can
+[12/14/23, 19:47:58] FGK: Or I’ll just do it rn
+[12/14/23, 19:49:16] FGK: Bruh there’s no group submission
+[12/14/23, 19:49:23] FGK: You gotta submit yourself too dont forget
+[12/14/23, 20:04:56] Ishan Ranjan: Ah damn
+[12/14/23, 20:05:01] Ishan Ranjan: Yeah I’ll do it rn
+[12/14/23, 20:24:12] Ishan Ranjan: aight i submitted mine
+[12/14/23, 20:24:12] Ishan Ranjan: ggwp
+[12/14/23, 20:26:22] FGK: Yessir gg go next
+‎[12/15/23, 19:32:56] Ishan Ranjan: ‎image omitted
+[12/15/23, 19:33:01] Ishan Ranjan: Spread the word
+[12/15/23, 19:35:40] FGK: Bro what 🤣
+[12/15/23, 19:35:43] FGK: That shit was passed
+[12/15/23, 19:35:48] FGK: Has*
+[12/15/23, 19:35:56] Ishan Ranjan: 🙏🏽
+[12/15/23, 19:36:00] FGK: 🤣
+[12/16/23, 18:04:21] Ishan Ranjan: YOU SEE OUR REPORT
+[12/16/23, 18:04:22] Ishan Ranjan: WWWWWW
+[12/16/23, 18:07:15] Ishan Ranjan: Only gripe i have with is that like, she said we didn’t define bias
+[12/16/23, 18:07:16] Ishan Ranjan: when we did
+[12/16/23, 18:07:24] Ishan Ranjan: im not sure if that’s worth a regrade request since we got a 19/21
+[12/16/23, 18:11:04] FGK: OH WE’RE SO LIKE THAT
+[12/16/23, 18:11:39] FGK: bruh…
+[12/16/23, 18:11:43] FGK: maybe worth a try?
+[12/16/23, 18:11:51] FGK: i dont think she’d dock more points
+[12/16/23, 18:14:18] FGK: I got an A in the class
+[12/16/23, 18:26:17] Ishan Ranjan: yeahh
+[12/16/23, 18:26:26] Ishan Ranjan: oh did she submit grades
+[12/16/23, 18:26:30] Ishan Ranjan: or did you do your own calculations
+[12/16/23, 18:26:36] FGK: She submitted
+[12/16/23, 18:27:49] Ishan Ranjan: Yeah i mean
+[12/16/23, 18:27:58] Ishan Ranjan: I got B but like
+[12/16/23, 18:28:03] Ishan Ranjan: i dont think that was cause of final project
+[12/16/23, 18:28:13] FGK: What does that mean
+[12/16/23, 18:28:14] Ishan Ranjan: and moreso the fact that I didn’t show up to class 💀
+[12/16/23, 18:28:17] FGK: Ahh
+[12/16/23, 18:28:18] FGK: lmao
+[12/16/23, 18:28:19] FGK: Yeah
+[12/16/23, 18:28:22] FGK: most likely
+[12/16/23, 18:28:37] Ishan Ranjan: shoutout my lab professor though, I just found out directed study was 4 credits and not 2
+[12/16/23, 18:28:38] Ishan Ranjan: so
+[12/16/23, 18:28:46] Ishan Ranjan: The automatic A in that class is gonna fucking save my GPA
+[12/16/23, 18:28:56] FGK: Thats fucking fire
+[12/16/23, 18:29:05] FGK: So you were taking 20 credits?
+[12/16/23, 18:39:50] Ishan Ranjan: yeah LOL
+[12/16/23, 18:39:53] Ishan Ranjan: and i didnt know
+[12/16/23, 18:40:19] FGK: You’re probably supposed to pay
+[12/16/23, 18:40:25] FGK: Cuz thats overloading
+[12/16/23, 20:31:10] Ishan Ranjan: oh true
+[12/16/23, 20:31:18] Ishan Ranjan: yeah i think i asked them to make it 2 classes
+[12/16/23, 20:31:22] Ishan Ranjan: ig it’s like 4????
+[12/16/23, 20:31:32] Ishan Ranjan: god i love collegiate scams lol
+[12/16/23, 20:55:50] Ishan Ranjan: https://www.tiktok.com/t/ZT8uXvL85/
+[12/16/23, 21:56:13] FGK: Bruhhh
+[12/16/23, 21:56:37] FGK: 🤣🤣
+[12/18/23, 20:50:21] Ishan Ranjan: https://www.tiktok.com/t/ZT8HFafsB/
+[12/18/23, 20:58:08] FGK: Bro wtf 🤣
+[12/18/23, 22:34:11] FGK: Yo
+[12/18/23, 22:34:13] FGK: You down to play
+[12/18/23, 22:56:26] FGK: Yooo
+[12/18/23, 23:10:54] Ishan Ranjan: Oh shit
+[12/18/23, 23:10:58] Ishan Ranjan: I just saw this
+[12/18/23, 23:11:03] Ishan Ranjan: Fuck yeah I’m down
+[12/18/23, 23:12:33] FGK: Foshoo
+[12/18/23, 23:12:35] FGK: Get on discord
+[12/18/23, 23:12:40] FGK: Jack’s not responding
+[12/18/23, 23:14:14] Ishan Ranjan: aight imma boot up first
+[12/24/23, 04:56:08] Ishan Ranjan: https://www.tiktok.com/t/ZT89vVFws/
+[1/1/24, 00:59:56] FGK: Happy New Year my guy! 🎉🎉
+[1/1/24, 01:00:31] Ishan Ranjan: Eyyy happy new years man
+[1/9/24, 14:01:11] Ishan Ranjan: https://www.reddit.com/r/BostonU/comments/192ilzu/why_are_there_so_many_socialists_at_bu/
+[1/9/24, 14:01:34] Ishan Ranjan: bu moment
+[1/9/24, 14:20:25] FGK: 😁🤣
+[1/9/24, 14:20:28] FGK: 🤣🤣*
+[1/9/24, 14:20:35] FGK: Found Freddy’s burner
+[1/9/24, 14:20:41] Ishan Ranjan: LOL
+[1/9/24, 14:21:24] Ishan Ranjan: its the one with the “alum (miserable)” flair prob
+[1/9/24, 14:22:00] FGK: Lol
+[1/10/24, 09:58:20] FGK: https://x.com/TheDunkCentral/status/1745092276575936830?s=20
+[1/10/24, 09:58:24] FGK: Oh nah 💀
+[1/10/24, 10:02:36] Ishan Ranjan: Damn
+[1/14/24, 20:06:50] Ishan Ranjan: New trap house sports tiktok gon be in shambles
+[1/14/24, 20:06:54] Ishan Ranjan: Cowboys got cooked fr
+[1/14/24, 23:18:09] FGK: Nahh no way
+[1/14/24, 23:18:13] FGK: He posted
+[1/14/24, 23:18:16] FGK: Mid game reaction
+[1/14/24, 23:18:44] Ishan Ranjan: Lmaoo
+[1/15/24, 23:19:54] FGK: Oh my god
+[1/15/24, 23:19:56] FGK: The Eagles
+[1/15/24, 23:20:00] Ishan Ranjan: loool
+[1/15/24, 23:20:09] Ishan Ranjan: cry eagles cry
+[1/15/24, 23:20:13] FGK: Lmaoo
+[1/18/24, 14:03:29] FGK: Yo this mf jack
+[1/18/24, 14:03:33] FGK: Calls himself broke
+[1/18/24, 14:03:43] FGK: then pulls out an ipad pro with a 300 dollar keyboard
+[1/18/24, 14:03:57] FGK: + apple pencil
+[1/18/24, 14:03:59] FGK: make it make sense
+[1/18/24, 14:04:13] Ishan Ranjan: He is broke his parents aren’t
+[1/18/24, 14:04:17] Ishan Ranjan: Same with me
+[1/18/24, 14:04:36] Ishan Ranjan: Bro this prof is peak uncle
+[1/18/24, 14:04:57] FGK: 🤣🤣
+[1/18/24, 14:19:02] FGK: this jetlag
+[1/18/24, 14:19:08] FGK: is about to kill me
+[1/18/24, 14:19:20] Ishan Ranjan: lol bruh I’m dead too
+[1/18/24, 14:19:24] Ishan Ranjan: R huh
+[1/18/24, 14:19:26] Ishan Ranjan: Bet
+[1/18/24, 14:19:32] Ishan Ranjan: I knows the R
+[1/18/24, 14:19:39] FGK: ChatGPT bouta come in clutch
+[1/18/24, 14:19:42] FGK: as always
+[1/18/24, 14:19:47] Ishan Ranjan: lol
+[1/18/24, 14:26:58] FGK: Here’s our letter of rec guy
+[1/19/24, 17:39:35] FGK: are you coming to Hopewell
+[1/19/24, 17:39:56] Ishan Ranjan: Yeah it’s at 8 rite
+[1/19/24, 17:40:01] FGK: yeah
+[1/19/24, 17:40:13] Ishan Ranjan: Fs you’ll be there?
+[1/19/24, 17:40:21] FGK: yep
+[1/19/24, 17:40:27] Ishan Ranjan: Sweet see ya there
+[1/19/24, 20:15:26] FGK: Wya gango
+[1/20/24, 20:20:03] Ishan Ranjan: ‎Voice call, ‎Accepted on another device
+[1/20/24, 20:20:48] Ishan Ranjan: https://fiyachicken.square.site/?location=11eafde9cfd3494ea5890cc47a2ae378&customer_seat_id=11eb010035674ee0a803b28d4cc754f2#3
+[1/20/24, 20:21:39] Ishan Ranjan: Lmk what you want
+[1/20/24, 20:21:49] FGK: Fried chicken sandwich
+[1/20/24, 20:21:56] Ishan Ranjan: Bet
+‎[1/20/24, 20:22:33] Ishan Ranjan: ‎image omitted
+[1/20/24, 20:22:36] Ishan Ranjan: Which flavor?
+[1/20/24, 20:22:37] FGK: Spicy
+[1/20/24, 20:22:40] Ishan Ranjan: Bet
+[1/20/24, 20:42:50] Ishan Ranjan: ‎Missed voice call, ‎Click to call back
+[1/20/24, 20:43:14] Ishan Ranjan: ‎Voice call, ‎Accepted on another device
+[1/20/24, 23:20:24] Ishan Ranjan: let’s
+[1/20/24, 23:20:26] Ishan Ranjan: Fuckung
+[1/20/24, 23:20:28] Ishan Ranjan: Gooooooooo
+[1/20/24, 23:20:35] FGK: Lmaooo
+[1/20/24, 23:20:39] FGK: Yessir
+[1/22/24, 11:35:24] Ishan Ranjan: yeah i know he’s like learning it as he goes as well
+[1/22/24, 11:35:25] Ishan Ranjan: wasnt bound to be good
+[1/22/24, 11:35:25] Ishan Ranjan: hes trying tho
+[1/22/24, 11:36:01] Ishan Ranjan: I’m gonna show up for the nepotism not the content
+[1/22/24, 11:36:14] FGK: Thats wild
+[1/23/24, 09:48:19] Ishan Ranjan: Has he just gone over code?
+[1/23/24, 09:48:25] Ishan Ranjan: No lecture material?
+[1/23/24, 09:48:48] FGK: This is lecture material
+[1/23/24, 09:48:55] Ishan Ranjan: Oh
+[1/23/24, 09:49:00] Ishan Ranjan: I meant lecture notes
+[1/23/24, 09:49:06] Ishan Ranjan: Has he shown any so far
+[1/23/24, 09:49:14] FGK: These are them
+[1/23/24, 09:49:18] FGK: It seems to me
+[1/23/24, 09:49:18] Ishan Ranjan: Oh
+[1/23/24, 09:49:33] FGK: You can make slides out of  notebooks
+[1/23/24, 09:55:13] FGK: Who tf is John Edwards
+[1/23/24, 09:55:48] Ishan Ranjan: Ah
+[1/23/24, 09:55:51] Ishan Ranjan: Lmaoooo
+[1/23/24, 09:56:07] FGK: I know the others never heard this guy
+[1/23/24, 09:56:08] FGK: Lmao
+[1/23/24, 14:08:17] FGK: You said you talked to Dan about Langdon’s class and she said we can’t take it?
+[1/23/24, 14:08:25] FGK: Just it by itself
+[1/23/24, 14:08:55] Ishan Ranjan: Yeah it’s applied
+[1/23/24, 14:09:02] Ishan Ranjan: So we’d have to take it for the applied track
+[1/23/24, 14:09:08] Ishan Ranjan: Or we’d have to do an extra seem
+[1/23/24, 14:09:17] Ishan Ranjan: Welll tbh I can take it because I only need 3
+[1/23/24, 14:09:28] Ishan Ranjan: But why would I kill myself im already busy af
+[1/23/24, 14:09:37] FGK: Reasonable
+[1/23/24, 14:09:48] Ishan Ranjan: Fr I woulda taken comp stats tho
+[1/23/24, 14:09:52] Ishan Ranjan: If that class wasn’t full
+[1/23/24, 14:10:02] FGK: It had 4 seats
+[1/23/24, 14:10:06] FGK: Last I checjed
+[1/23/24, 14:10:08] Ishan Ranjan: Duck
+[1/23/24, 14:10:10] Ishan Ranjan: Ok
+[1/23/24, 14:10:11] FGK: Checked*
+[1/23/24, 14:10:18] Ishan Ranjan: Wait imma go to Dan after this
+[1/23/24, 14:10:26] Ishan Ranjan: Or like today
+[1/23/24, 14:10:31] Ishan Ranjan: I’m gonna go after gardos
+[1/23/24, 14:10:41] FGK: Bet I’ll go with you then
+[1/23/24, 14:11:24] FGK: Yeah there’s still 4 seats left
+[1/23/24, 14:11:29] FGK: In comp stats
+[1/23/24, 16:11:17] FGK: you wanna do bias detection lmao
+[1/23/24, 16:11:32] Ishan Ranjan: loooooool
+[1/23/24, 16:11:34] FGK: continue ds587
+[1/23/24, 16:13:33] Ishan Ranjan: https://www.semanticscholar.org/paper/Feedback-GAN-for-DNA-optimizes-protein-functions-Gupta-Zou/9e84a60220f847334e9894884762fdfa1695ef73
+[1/23/24, 16:13:39] Ishan Ranjan: this is what i was saying haha
+[1/23/24, 16:16:33] Ishan Ranjan: https://www.neuralampmodeler.com/
+[1/23/24, 16:16:37] Ishan Ranjan: also wanted to do smtn like this
+[1/23/24, 16:16:50] Ishan Ranjan: could ask gardos about this since he is a Digital signal processing guy

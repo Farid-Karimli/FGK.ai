@@ -1,0 +1,864 @@
+me: hey ishan were you able to create your project and configure the permissions for 561?
+other: oh yeah i was creating the project is simple, gcloud has instructions for it
+me: did you create it under the bu organization
+other: yeah
+me: cuz i did and it worked fone fine
+other: yeah it did for me too
+me: but apparently some people did that but cant give permissions interesting lol
+other: did you look at iam?
+me: i did yeah
+other: i think he still might be updating access
+me: it only worked after i explicitly created a project under the bu organization
+other: oh yeah you need to do that first
+me: okay just wanted to make sure cuz the recent piazza post got me concerned
+other: lmaoo yeah it’s a mood
+me: lol hey you have any idea what you're gonna do for the 587 project
+other: hm so smtn based on like ai art maybe its a lit review idk yet or maybe an ai generated video
+me: i was thinking that too
+other: or something idk
+me: lots of room for smth interesting we can team up if you'd like that
+other: id be down
+me: great we can discuss more tomorrow i was gonna brainstorm rn
+other: sounds good
+me: if you need a ride lmk we can go get drinks together as well for tonight
+other: i’m down
+me: there’s blanchards on harvard ave
+other: sweet yeah that’s literally next to my apartment
+me: wonderful
+other: i think jack was saying he was free as well so yeah i’ll just make a gc with all of us
+me: he’s already there
+other: oh i meant us 3 to coordinate
+me: ah
+other: lmao
+me: gotcha
+other: what time this week works to meet with the prof for the 587 project?
+me: can we meet together? i thought it was individually we meeting with the 587 professor tmrw at 3? lmk if u want a different time
+other: oh yeah that’s good actually so are you good with anush joining our group possibly he talked with the prof and she said 3 ppl is chillin
+me: yeah of course
+other: aight bet imma let him know what time our meeting is tmw
+me: are you free this sunday night
+other: sunday night should be good
+me: its my birthday i wanna gather people to go celebrate nothing too crazy considering its a sunday
+other: oh yeeeee let’s do it
+me: fire
+other: we could also go clubbing after 12am on saturday night but idk if ppl are down for that kmao but yeah let’s do sojuba
+me: not sure abt that rn
+other: lmao yeah same was just spitballing
+me: love it sojuba has a 2 hour limit for each party but idk how much they’ll enforce it on a sunday night
+other: yeah true
+me: im here for the meeting with the prof wya rn
+other: einstein
+me: aight
+other: lmao how is this so far
+me: wdym
+other: the lecture
+me: oh the lecture lmao its alright same energy as ours
+other: ah yeah i feel like its just cause its a big class that it doesnt hit as hard
+me: yeah and these guys behind us annoying af
+other: lmao i know them so it be like that
+me: just talking while he's talking in the beginning was annoying but its no big deal lol interesting how he's limiting you to climate
+other: true fair yeah theyre friends with my roommates so they prob saw me and sat near lol yeah honestly i kinda wanna do stocks thats so much more interesting
+me: yep like in lecture today he showed us the graph of the s&p500 and asked why theres a dip on wednesday
+other: oh shit
+me: and we discussed the fed holding interest rates lmao bro knows his shit
+other: damn haha wait what time is deep learning lecture
+me: 3 cas 203
+other: aaah gotcha, yeah i feel like people are dead by 5
+me: yep
+other: 3
+me: agreed did u get the us defense project???
+other: we did sorry bro which one did you get
+me: work from home lmao i put down carmen after as well
+other: actuslly i mean
+me: its aight though they probably didnt want non us people on that
+other: dude the work from home professor
+me: which i understand
+other: is goated with connections she knows the obama *obamas a lot of people in government
+me: what
+other: it’s a good project to get yeah
+me: aint no way thats insane
+other: jack and i were talking with one of her grad students yeah
+me: feeling better abt it now then lmao
+other: yeah haha aight just got back you still free to zoom
+me: yeah sending link
+other: bet how far away are ya wait so for 561 is the github repo supposed to be public or not
+me: i think so yeah
+other: ok wow based
+me: lmao are you done with the homework?
+other: just starting lol
+me: lmao
+other: i mean i created a bucket and the weblinks i must be halfway done already (no im totally not) how long did it take you i looked up will on github and he’s already done
+me: the file upload was like a good 20-30 mins insane
+other: for bucket?
+me: goddamn
+other: sheeeesh
+me: yeah
+other: was this over bu wifi or at home
+me: at home 300mbs
+other: fuc i have the same rip
+me: lmao
+other: bro i just wanna go home, plug my shit into our gigabit internet through an ethernet cable and pray to god it takes less than 15
+me: thats fire
+other: wait wdym the copying took me literally 3 mins what command did you use lol
+me: where are you copying from
+other: local to gcloud
+me: did u make the files on the shell?
+other: made files on local
+me: yeah same took me a long ass time
+other: then gcloud storage cp to bucket
+me: 10k files? i uploaded straight to bucket using python
+other: oh i did gcloud storage cp *.html  gs much faster xd
+me: i see didnt know that lmao i just used a for loop
+other: yeah just copied the command from hw1 oh lol
+me: 10k iterations lmao
+other: yeah that is gonna take a while command line is gonna be your friend in cloud computing lol yeah we gon have to use an adjacency matrix for 561 sadge cause networkx does the hw for you
+me: we cant use networkx?? my guy
+other: or at least was talking to a couple or cs tryhard and they scoffed at it lmao but from what i’ve seen adjacency matrix can also work cause there are no limits on memory usage
+me: yeah but if we’re allowed to use networkx why not more efficient and its just smart
+other: hm true yeah i’d post on piazza asking if we can use it
+me: r u doing that or u want me to
+other: i was gonna use adjacancy matrix so if you wanna go for it i did ask him about using gcfuse or cloud storage client in office hours tho and he did say that use the python client (the google-cloud-storage one) for accessing your bucket
+me: yeah thats what i do im guessing u didnt ask him about networkx
+other: yeeeep i forgot
+me: lmao
+other: speaking of i gotta email micah about building access cause i cant get up there anymore to just go ask him again
+me: even after tapping ur card? but then how are you gonna visualize the graph networx lets u do that with a function call the code to do that manually is gonna be nuts
+other: hm yeah actually true we could just use networkx to create the graph
+me: yeah
+other: but then just manually implement the pagerank algo is that what you did
+me: yeah
+other: gotcha
+me: its just giving me an error cuz a link can have no outgoing links a file***8 a file *** division by zero occurs
+other: hmmmm true
+me: wait i swear the hw file said visualize the graph it doesnt say that and yeah the file says to compute the pagerank score twice second being the original algorithm
+other: https i guess yeah yeah that is true with the original algorithm a page with no outgoing links should error out from what i’m seeing you have to delete these from your graph
+me: yeah i guess so
+other: https he used networkx here
+me: a student responded to my question
+other: hm that might have been the guy i talked to
+me: okay and the prof said we gotta use our own code for gods sake
+other: granted in the actual hw assignment it says nothing about visualization so i think adjacency matrix should be fine
+me: for some reason i remember it saying lmao i know i know
+other: lmaoooo
+me: are you running the code locally
+other: yeah i am adding a requirements.txt for people to run tho with the bucket being public it should be able to run from anywhere tho
+me: aight bro my code is running for so long its ridiculous
+other: damn some ppl used tqdm to show progress lmao
+me: wtf ive never even heard of this thats wild
+other: yeah it’s insne i’m gonna use it
+me: aight my codes been running for 1.5 hours la lmao**
+other: oooof im literally on my slides from undergrad
+me: lmao
+other: cause this is how common hierarchical is brought up in bioinformatics this is literally my lab work lol
+me: this is free then i did this exactly a year ago too
+other: yeah tbh im wondering why i came to lecture lol im waiting for him to go over upgma and to call it day lol
+me: wtf is that i read that as sugma
+other: average linkage basically lol sugma balls
+me: mf npc ass
+other: https this guy popped in my mind
+me: wtf is this
+other: lmaooooo npc ass watch it on your own time
+me: fosho
+other: wait so for 561 and the pagerank stuff for the first iteration what did you set the pagerank values to gotcha thanks
+me: nw
+other: yeah just need to do this otherwise im done using 100 files to test saved my life lol
+me: i’m running my code and getting the division by 0 error lmao
+other: idk what that dude is on with threadpoolexecutor oooof
+me: i dont understand how literally makes no sense are u verifying with networkx you mind if we get on a zoom call in a bit to verify
+other: not at the moment, but yeah i should
+me: or later
+other: yeah sure does like 7 work
+me: yep
+other: sounds good
+me: some bs is going on in my bucket some files are blank
+other: the fuck damn
+me: yeah i try to open them and nothing
+other: oooof
+me: i deleted them and uploading again now
+other: gotcha also do you mind jack and cindy hopping on the zoom
+me: sure
+other: bet
+me: u want me to send the link
+other: ill send https
+me: are u just gonna instruct them to run your file
+other: yeah just gonna do a read me
+me: same they want a pdf fie file*
+other: pdf is gonna be a link
+me: im gonna include the instructions there too
+other: ah you could just markdown to pds pdf and make your life easier
+me: i submitted done with this
+other: damn
+me: what time u going to the library?
+other: maybe we should plan that lol
+me: r u there already
+other: nah got up just now should be there in an hour latest
+me: bet we’re in front of the library like next to the entrance sitting
+other: kk is my stuff still there
+me: what stuff we’re not inside
+other: oh lol
+me: lmao anush and jack are inside
+other: gotcha i was a lil confused haha
+me: lol we’re going back in u watching the game?
+other: yeah
+me: purdy is insane
+other: big cock brock i love having him on our team brock what the fuck that game holy
+me: dude wya
+other: just call me when you’re here gotta come back out cause my roommate let me in lol
+me: gotchu send location on my way to u 5 minutes here i went past a bit in front of dominos
+other: kk coming https the fuck lol 12 am qualifying pt thats 3am
+me: thats criminal
+other: frfr you coming to yellow corner?
+me: yeah driving
+other: ooo
+me: parking ima have to walk so sorry
+other: ur good lol did you park at home
+me: going to yeah
+other: ah kk yeah i was about to leave so tbh all good lol where did you go
+me: sure? wym i didnt find a spot
+other: ooooooh
+me: so was gonna park at home
+other: damn ooof
+me: and walk but if you’re leaving i’ll stay home lol
+other: yeah haha i’m tired as fuck that’s a plan lol
+me: same
+other: we’ll study sesh tmw or some other day
+me: bet sounds good we got our presentation tmrw have u looked at the slides i added my part
+other: oh fuck true imma look at em in a few mins once i get home <this message was edited> on the bus rn
+me: okay also feel free to add to the motivation part or anywhere for that matter
+other: for sure did you share it with me
+me: i did yeah oh no lmao hold on now its shared let me know when you're donw done we gotta add our slides to a shared slide deck
+other: oh bet yeah im doen just like pretty-fied it and reworded some things
+me: great lmao everyone's slides have a white background except ours xd
+other: true
+me: how do you wanna divide the talking
+other: i can take the first slide and we can split the last
+me: bet hey ishan im doing a user study for my research you wanna be a part of it we’re gathering people to test out the app and provide feedback
+other: is this for a class
+me: no working with a phd student at bu
+other: oh damn aaah nice yeah sure
+me: we’ve only built an installer for windows since thats what our target audience uses so we can do it at my place over the weekend not gonna take a long time
+other: ah fuck yeah i only have mac but i mean if i could use it on your pc or something
+me: yeah that’s exactly the plan
+other: or wait i totally forgot i have my gaming laptop with me
+me: oh shit u do
+other: i can just use that bc windows yeah its at my apartment but i can bring it for this
+me: thats fire sure lets schedule a time we meet for like an hour and donit do it*
+other: bet yeah sunday morning adn afternoon are the best for me
+me: sounds great yo what times u free today to do the testing thing
+other: fuck i just saw this does anytime tmw work
+me: tmrw only after 8pm
+other: aight bet
+me: yo im too tired to do the testing lets do tomorrow instead
+other: i was thinking we could do it after class tmw grab lunch and do it
+me: sounds good greatest presentation of all time coming up at 11
+other: frfr
+me: you going to 701?
+other: nah
+me: lol u wanna do the test in an hour?
+other: i got meetings tonight unfort can you send me the code and we can prob meet up before 561 tmw and do it
+me: code for what?
+other: oh i meant like the git repo or the app so i can download it
+me: oh right one sec https its in the releases tab
+other: bett thanks when do you want to meet to get the annotated bib done? or is it individual
+me: oh right um we can start on our own i think and then meet on sunday hows that
+other: sounds good
+me: bet
+other: i got cooked on the last provocation so im just tryna ball with the ones going forward lolll
+me: i got shafted too lmao
+other: bruh i was like whens the drop deadline again and then i looked at my participation scores and my reflections and i was like ok if we pull the final project off i cna live with a b in a writing class
+me: you can look up the particpations scores?
+other: its based off the in class activities no ? cause how else does she have a record of us
+me: probably maybe how active you were during discussions
+other: hm true but if you are active during the second half i think she’ll prob give benefit of the doubt tbh have you started on cloud computing
+me: she doesnt look strict as hell either we’ll see pretty much done i just need the code to get all 100,000 requests
+other: gotcha yeah i’m just tryna get my stuff to just read from the database today as well do the 100k requests well i got the data from the database time to do the 100k requests
+me: nice we going to the game ??
+other: sure
+me: what time are you getting there
+other: prob like 6
+me: aight bet dude
+other: just got here
+me: where?
+other: just got my ticket scanned wya
+me: bruh what entering
+other: oh lmao
+me: which side did u go up
+other: i went right sorry left did you go right
+me: wtf is left right which sections
+other: let’s meet outside section 107 i’m gonna be at/near the public library so we could meet there tbh capital one cafe maybe?
+me: can we watch the game there? i was looking for the bar experience lmao
+other: no i meant for 587 
+me: oh i forgot abt that could you meet over zoom instead
+other: yeah that works
+me: im actually working on my prompts and results rn
+other: oh bet
+me: we have more time than i thought btw thursday
+other: oh
+me: is the deadline
+other: based thank fuck
+me: yeah lmao and it looks like we should do them separately?
+other: my 100k requests for 561 are running rn lmao i was gonna finish that today hm we should converge on some sources and then like maybe peer review so we don’t each get shafted i’m also gonna finish it off and get to office hours for her to review it
+me: yeah sounds good bet i’ll do that too then
+other: sounds good we can meet later in the week for that then xd imma just grind 561
+me: yep sounds good lol
+other: wait btw for prompts are you like focusing on racial and political bias
+me: mostly political so far yeah what do you think
+other: ok hm could you put these in a doc
+me: sure
+other: we could just work on em together then yeah good premises, we could add follow-ups and make some of these more specific we could also talk with alison during oo for feedback
+me: sounds good shared ut it* i feel like there’s more room for analysis
+other: bet
+me: with the image generators
+other: yeah ill look thru and add
+me: than the textual models
+other: that’s true yeah it’s gonna be a little non political with the textual ones i feel
+me: yeah i can't make it say smth stupid like i saw someone ask about the israel palestine conflict online
+other: that’s why maybe using followups would work but yeah
+me: and it basically said that israel has a right to self-defense but for palestine it basically said  "its tricky" but now that i am testing it it just says both have the right and that its a highly debated, complex topic that depends on many factors
+other: true but like you kinda have to edge it to make it pick one
+me: i also shared a folder with you contains the results of my prompts on the models i’m trying out other text to image models they’re so ass
+other: lmaoooo
+me: i feel like i have good prompts for political bias if you have suggestions for prompts that can generate racial bias, lmk and i’ll test them and start writing a draft report thing
+other: dude the pictures are lw fire i love how they were like yeah riot? french for the visual prompts, lets like add some stuff like “waiter” or “butler” or something like or "gangster"
+me: thats good wya
+other: we walkin over rn be there in 5
+me: kitchen closes at 9 today lmao
+other: oooo yeah we 2 mins away
+me: hi samuel,
+other: our course staff as well as your fellow students aim to be punctual and professional hi samuel, https //arxiv.org/abs/2306.00905 //link.springer.com/article/10.1007/s11127-023-01097-2 //arxiv.org/abs/2309.00770 //machinelearning.apple.com/research/gender-bias-llm //arxiv.org/abs/2308.10149 //www.nature.com/articles/s41746-023-00939-z //arxiv.org/abs/2309.08573
+me: 1.	https
+other: //www.mdpi.com/2076-0760/12/3/148 //www.sciencedirect.com/science/article/pii/s0004370221002058?casa_token=2xsfkav-zhwaaaaa //onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12567 //media4.manhattan-institute.org/sites/default/files/the-perils-of-political-and-demographic-biases-embedded-in-ai-systems.pdf //www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/livingston_jspg_v16.2.pdf //idp.springer.com/authorize/casa?redirect_uri=https //arxiv.org/abs/2004.09456 //proceedings.neurips.cc/paper/2019/hash/7f018eb7b301a66658931cb8a93fd6e8-abstract.html //www.andrew.cmu.edu/user/ales/cib/bias_in_gen_ai.pdf
+me: https yo what time do you wanna suggest to meet with prof allison?
+other: 1 pm
+me: tomorrow?
+other: ye she also said that before class was good
+me: oh gotchu ima send an email rn and cc you
+other: bet
+me: good evening prof. mcdonald, lmao do you think its appropriate to ask to meet tomorrow right now we should have sent this earlier
+other: yeah send it she’ll see it tmw
+me: you wanna go to the prof’s office hours tmrw at 10 she said she cant meet at q 1*
+other: ye
+me: also, did you look over our articles are there any overlaps or nah
+other: i don’t think so, we’re you gonna use the ones that you sent here actually lemme send the ones imma use, i’m p sure most overlap but we have 2-3 unique https //arxiv.org/abs/2309.08573 //link.springer.com/article/10.1007/s13347-022-00512-8 //www.mdpi.com/2076-0760/12/3/148 //www.sciencedirect.com/science/article/pii/s0004370221002058?casa_token=2xsfkav-zhwaaaaa //onlinelibrary.wiley.com/doi/full/10.1111/ropr.12567 //media4.manhattan-institute.org/sites/default/files/the-perils-of-political-and-demographic-biases-embedded-in-ai-systems.pdf //www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/livingston_jspg_v16.2.pdf //idp.springer.com/authorize/casa?redirect_uri=https //arxiv.org/abs/2004.09456
+me: both of us should have 2-3 that the other did not review
+other: kk i think rn we have 2 unique
+me: thats fire
+other: i can find one more for myself so we have 3 differences
+me: great lets have mine be mostly about political bias and yours on racial or vice-versa
+other: actually sure i can do racial
+me: its all gonna go into one thing anyway
+other: yee
+me: lets just show that our task are distinct in some way
+other: she also said to send like one example of a annotation to her if you wanted it reviewed, emailed her abt that ye
+me: ah i see
+other: yeee also just got some good sources for racial so we should be good
+me: nice
+other: imma try to get like 3-4 done before cloud computing so i can send to her and see what she says
+me: so did she give u feedback on urs no ah gotchu lmk how that goes
+other: bet
+me: one citation left for me wbu? i’m done transferring my part to the doc
+other: have 2 more will transfer then
+me: bet
+other: did a couple of my unique ones should be done in an hour or so
+me: sounds good hows it going
+other: yeah i got one more just finishing that one up rn the other two are there *on the doc
+me: great
+other: aight im done
+me: bet gonna submit
+other: sounds good did you change up my stuff a lil just so that it's not like blatant copying xd missed voice call
+me: my b whats up
+other: yeah was just gonna ask this xd
+me: i can change it up sure
+other: yee cause like she said we can’t have the same annotations we can have the same sources tho but like yk, we kinda got the summary and recommendations which is the main part just send me what you're submitting and i'll just make sure my shit looks different
+me: bruh we cant have the same summaries?
+other: yeah but i mean like, we got the gist of each paper which is like the hard part now it's just making sure it looks diff <this message was edited> "if you are working on your final project with a partner, you both should do the reading and independently create your bibliographies. you are welcome to share a list of papers to review, and to discuss the reading generally, but the annotations should be done independently. i also request that each partner have 2-3 papers that the other partner did not review."
+me: gotchu
+other: ye
+me: all done sending in a bit
+other: bet bet thanks yeah i’ll just make sure the common shit doesn’t look the same
+me: did u change up my things?
+other: and we should be chillin yeah i did
+me: bet i significantly changed urs on my side we should be good
+other: bettt ye sounds good gonna be like 10 mins late missed my t is freddy here i dont see him
+me: oh lmao my had didnt see this message
+other: all good lol bro copilot is actually fucking broken
+me: lmao i be telling u
+other: frfr it plotted my graphs for research in like 2 mins that with messy ass data
+me: thats fire yo can we do the testing today or tmrw
+other: oh yeah does today work
+me: yeah later though at like 5-6?
+other: ye that works
+me: great can u do later than that or nah
+other: i’m free today so ye what time
+me: bet let’s do 7-7
+other: your place?
+me: didnt u have a pc we can do remotely
+other: gaming laptop ye oh bet
+me: does it have a cam
+other: i have an external cam but yeah it does have a cam as well ya think imma use a shitty laptop cam when i got a setup like this lol
+me: oh great bro i got the same camera lmao
+other: lmao jack does as well amazon nexigo ftw <this message was edited>
+me: its fire asf
+other: frfr just lmk whens good
+me: bet playing fortnite rn
+other: lmao bruh whats your ign
+me: ign??
+other: your name on fortnite in game name
+me: farmudin
+other: aight added ya
+me: fosho we should play then ima play one more and we can do the testing meanwhile u wanna download the thing and try it out before the actual test
+other: i downloaded it already
+me: was that a few weeks ago
+other: yeah lol
+me: lol we updated it https download it again
+other: aight bet just did lmk when you ready imma just grind a ranked no build until then lmao
+me: bet
+other: i just gotta leave at 9 that’s my hard deadline
+me: oh we got time
+other: bet
+me: lets go https yo bro yooooo we got the progress report due thursday lets get started on that asap
+other: oh shit yeah
+me: lol
+other: for the project proposal do you want to take the work remaining and i can take the timeline
+me: yep
+other: sounds good
+me: dude you're insane
+other: for what
+me: the report fire edits and mission statement
+other: oh yeha i mean cleaning up stuff from our proposal and the edits aint that had it's just making it flow thats the hard part
+me: yessir you want me to finish work completed too?
+other: yeah i can finish off the timeline i'll just go through and edit the work completed once you're done with it make sure it's all tight
+me: check out the report
+other: bet
+me: i think we’re pretty much done
+other: yeah ill just put the work remaining into paragraph form but otherwise we should be good
+me: ah okay
+other: what you get on the annotated bib
+me: 10/10 yessir we’re like that fr fr
+other: oh damn kk i got a 9 but still we like that fr
+me: what tf?? that makes 0 sense
+other: yeah i think i was vague on some of my applications but i can request a regrade for it
+me: gotchu
+other: acktually yk what imma come im just gonna wear a mask and protect my voice lol been feeling better today
+me: gotchu
+other: i’m here where are y’all
+me: section 108 right side we’re not near the band
+other: where in 108
+me: right side row 15 or sm shit u wanna play?
+other: gimme 5
+me: aight
+other: im in disc
+me: https
+other: https bro spent how much?
+me: nahhh thats wild fr
+other: https
+me: https
+other: https
+me: no way im copping that shit so fast
+other: frfr you wanna go to the hockey game tmw? it's against the defending national champs
+me: i can’t unfortunately i forgot about the game and made some plans
+other: all good do you wanna watch the niners game tmw
+me: 8pm?
+other: yeah
+me: you wanna do it at my place
+other: sure
+me: i dont feel like heading out lmao we can order in get some beer
+other: yeah was thinkin that
+me: did u talk to jack abt this
+other: jack is not in town bro is in ny
+me: oh damn lmao what time you coming 8?
+other: yeah
+me: bet can u grab beers on the way or do u want me to get some
+other: yeah i can grab from blanchards whats ur address again
+me: 135 pleasant street you wanna order beforehand
+other: yeah what you feeling we could place an order at like 7
+me: im thinking 7 im feeling dominos pizza with sides but i’m down for smth else too
+other: yeah idk if dominos is closed lol also blanchards is closed sadge
+me: oh right
+other: so we might have to doordash beer
+me: damn… rum it is then oh right lmao
+other: we also have seltzer too right
+me: yeah
+other: aight yeah we can figure smtn out
+me: brt bet do you like halal food oh nvm this place has 73 min delivery
+other: damn
+me: lmao the only places open are asian
+other: xd
+me: on doordash we can do that though i’m down theres this place its 42 mins now thats perfect if we order at 7
+other: damn yeah the chicken also looks good
+me: this is one of my fav places in boston its so good shah halal take a look
+other: bet
+me: what do you think
+other: sorry just got off a meeting taking a look rn yeah looks good
+me: you wanna do shah’s halal or smth else
+other: shahs halal is good
+me: bet what do you want from there i’ll put the food order in you put the beer order in lol
+other: get me a chicken cheesesteak and we chillin what’s ur apartment number
+me: 606 u cant enter text me when ur here and i’ll come down
+other: do you just do leave it at the door
+me: thats it? yeah
+other: i’m asking for doordash lmao
+me: oh my b yeah leave at front door any customization oh my god they just closed
+other: damn there’s one in cambridge
+me: oh right lemme see btw if you wanna come early feel free
+other: yeah looks good yeah imma come early and then order the beer from ur place
+me: bet
+other: just so that they have my id
+me: gotchu when do i put this order in 31-46 min delivery time
+other: mebbe like in 15?
+me: bet ordwr placed
+other: i’m close will be there in 10 https
+me: bruh we got a 9/10 on final project progress report this bitch is tweaking istg
+other: i saw bro i dont know if anyone in this class is gonna survive with an a fr jack and cindy also got 9/10s
+me: damn yo john cena is in fortnite and the you cant see me emote
+other: lets go epic gimme my vbucks whats ur venmo btw
+me: farid_karimli
+other: bet
+me: what is that 25 for
+other: aight so stella owed you 25.77 and i owed stell 25.77 *stella so
+me: ahh
+other: yeah https watchu chatgpting
+me: schema
+other: ah https 
+me: i’m gonna start working on the presentation today i put into the ds587 project folder
+other: sounds good yeah i get back to boston this evening so will take a look once i land
+me: you watching this game
+other: the niners one?
+me: yeah
+other: not watching cause im at the airport but following it liking the score rn but holding my breath until the game is done cause the eagles are good amazing fucking game
+me: couldnt finish watching it but that score is fire
+other: https
+me: i literally just watched it this shit looks fire
+other: frfr https
+me: bruh have you looked at the presentation?
+other: yeah was gonna do so tn, prob in like half an hour?
+me: aight let me know what you think and feel free to add anything
+other: sounds good
+me: so what’d u think of the presentation
+other: i was gonna look at it in cloud computing lol from what i saw the outline was good, we might need to add a lil more so will do that tn im just swamped with shit to do rn haha
+me: okay
+other: https
+me: are you looking at the presentation lmaooo but this is kinda wrong harmon kardon is the default
+other: true
+me: burmeister or bowers and wilkins is the better option i kinda focused on my part but i guess its both of ours cuz you also tweaked the prompts
+other: yeah honestly looks good ngl
+me: add some parts that talk about the position paper and what it will include and we good
+other: sounds good
+me: yo what bias in visual models are u talking about or did u test on ur own?
+other: oh u mean like from the results for the chatgpt ones i put i did on my own
+me: i didnt find any bias in the image models
+other: ah kk
+me: like systemic not one off ah gotcha
+other: can you change it to show like no depictions of violence
+me: sure who’s taking what i can do background + methods you do the rest?
+other: sure
+me: i’ll do the conclusions
+other: sounds good yo are you going to 701
+me: yeah
+other: are you presenting
+me: no are you
+other: no i mean u was thinking of skipping is it necessary for us to go to 701
+me: i believe attendance is mandatory
+other: fuck aight bet
+me: yeah it is hop off bro
+other: once i finish this reading reflection
+me: aint no way
+other: wordcounter.net coming in crazy wait is this guys name arjun aggarwal i know an arjun aggarwal
+me: yeah
+other: and that is not this guy lmao
+me: wow its almost as if two people could have the same name  glazing
+other: lmao was there any update on that piazza post thing from 111
+me: nope we have our staff meeting tmrw we’ll address it then probably
+other: damn also just changed the position paper part on the presentation to general findings/research report since i doubt we’re gonna be able to stake a specific position on this stuff for gen ai given how centrist the responses were
+me: yeah thats good we can say that our findings made us shift directions
+other: yep
+me: towards figuring out if ai models have become better at being unbiased did u make the change on the big slide deck? + for which we can create a timeline
+other: sounds good
+me: ^
+other: oh wait yeah lemme make it on the big one
+me: bet
+other: yeah fixed we gucci
+me: fosho
+other: i’ll set up an oh with allison for like next monday just so that she can review our report and provide initial feedback
+me: thats a great idea yo my guy wya
+other: i’m 2 mins away walking into 808 rn
+me: let’s do this you do background and motivation i do methods and the second findings slide you also do the first findings slide + takeaways conclusion
+other: yeah sounds good
+me: i do conclusion mb aight bet
+other: had to talk with our project group after 701 since we all showed up for the first time lol so alternate right
+me: yeah essentially also take a look at the changes i made small
+other: bet yeah looks good i think we cooked fuck covid girl tho fr
+me: xdddd ofsho fosho
+other: freddy asking the real important questions if we can answer him we are set
+me: but u started wylin there for a second on communism v capitalism
+other: u gotta freddy it
+me: lmaooo yo you wanna get started on drafting our write-up
+other: ah shit yeah
+me: since u said u wanna meet with her on monsay monday
+other: ye i’ll start today goin home to get some rest rn will start it in the evening tbh
+me: aight
+other: https
+me: yo were u able to figure it out the cloud
+other: bro i gave up imma submit it late
+me: did u start the final report ???
+other: oh yeah just made a doc lol, prob gonna get half done today-ish
+me: okay i’ll start building my timeline today or tomorrow morning
+other: sounds good, we can just use it as a figure for the paper then
+me: yeah and i’ll write the accompanying discussion for it too for now start with just the introduction and previous work but if u wanna go even further into the test results and examples thats great
+other: yee, also i’m gonna move the image/text results and the prompts into a folder called “supplementary materials" https did you get past the you dont have permissions to give permissions error
+me: theres a service account that deployment manager uses give it the owner role u dont see it by default you go to service accounts and check show google provided roles/accounts on the right
+other: ah do you gotta do that before you deploy the yaml
+me: yeah did you say you wanted to meet with allison tmrw
+other: tbh im gonna send her an email today to meet tuesday our final thing isnt due until thursday right
+me: what time? i got two presentations on tuesday gonne have to be you gonna*
+other: prob like afternoon-ish? like after class yeah thats good with me tbh
+me: we gotta get started to show her smth if we’re seeing her before that
+other: yeaaaaa im just tryna finish this cloud hw off rq and then work on that ill get it done its just yeah finals slog lol
+me: bro what wtf is slog
+other: grind
+me: okay
+other: finals grind** ye
+me: you said you’ll start on thursday, and the document is still empty. im not saying you should have had the entire thing done, or even half, but at least something. i know we got a lot of other work, but we gonna get something going now. our thing is very fragmented rn. and i’m not saying only you work on the report, we obviously will work together but we divided tasks long ago do you wanna divide the report rn? i can take the methods, the results and create the timeline figures.
+other: it is, i was just gonna grind most of it out today but so it’d be easier for us to get it done by monday, just tryna wrap a lot of things up last minute from my end yeah if you could take the results and timeline figures that would be great, i can finish off the rest since you worked the most with those
+me: you got it
+other: bet bruh i swear did allison not see our email at all
+me: lol idk fyi i cant make that time
+other: yeah i figured, ill just stay up and finish the report tn so we can just get it edited tmw i kinda wanna just finish off the edits tmw once she gives them to us and then submit ngl
+me: you’re him
+other: bro istg
+me: do you need anything from me?
+other: if the rest of my 701 group did their work i would have so much less shit to do its just me jack and will stressin on report rn lol
+me: goddamn we got time till thursday
+other: nah i got the methods and results so you good
+me: you can just ask for pointers
+other: for this ye
+me: and i can give you what questions i have
+other: yeah that's what i was gonna do mainly sure thing just list em out here or on the doc
+me: gotchu so essentially if you could show her our results like the most representative examples and ask if she thinks this is robuts enough and that i was thinking of a quantitative approach - calculating polarity scores of text responses on trump vs biden for example
+other: ah yeah we could ask that good point
+me: so we’d have a qualitative and a quantitative approach
+other: yep could we potentially use sentiment as well and also can we make a github repo for all of this too instead of gdrive
+me: sure
+other: sounds good
+me: i’m adding more tests to the drtive drive* thats what i was talking about examine the positive or negative sentiment of a given response to a prompt also you say "medical advice based on race" i'm not sure what that means lmao cuz we got no prompts like that
+other: oh yeah true i guess like i could just make that more into the previous work where like “oh it’s been shown to have bias in other fields so we were interested in bias in general” kinda thing
+me: sure you do you gango
+other: bet also how did we do
+me: y’all did great
+other: ayyy thanks
+me: yo theres one more ishan
+other: yeah
+me: lmao
+other: hes the polar opposite to me im just a little memey guy this dude is tall af and looks serious af
+me: lmao
+other: ok yeah also looks we should do sentiment or bias analysis too like these guys didd for text at least ok hm this is fire
+me: it really is lmao
+other: lmao all that to get asked the same questions as us
+me: thats wild lmao and we got like 4 questions
+other: frfr
+me: like that fr fr so for the report are you gonna work on it later today? i wanted to say smth about the findings we can do this
+other: yeah
+me: you can write like a skeleton of our findings high level overview i can do more testing get more results and do the polarity score thing and we can update accordingly
+other: true
+me: gpt 4 is actually a g refuses to give an opinion ever goddamn
+other: damn
+me: bro we both procrastinated so much on this project we could have a much easier time right now but as you know, fuck it we ball
+other: lmao fr
+me: so i added what chatgpt outputted its not ideal you can go ahead and just edit it now, making smooth transitions
+other: sounds goo d
+me: be sure to mention the authors’ methods a lot and how they relate to our methodology
+other: bet, could you also just like bullet point out the main findings and then ill just put them and edit into paragraph form
+me: you can find those in the bibliographies
+other: from there i can write discussion no i meant the one under methods
+me: oh our findings you gotit you mind if i do that by tonight im thinking of doing more testing to make this shit more robust
+other: yeah that’s fine https bruh damn this racial bias filter is good scroll down to the last few https i got it to be racist massive w we’re so fucking using this lol
+me: lmaooo this is all you my guy oh maybe we could have these approaches 1. normal prompts
+other: yeah like the super informal talk yeah
+me: 2. role playing those two thats fire what time are we meeting allison tmrw?
+other: like 2
+me: oh shit aight bet thats good actually gives us more time
+other: yeah bruh i cant get it to go on political bias looks like the biden trump shit is right yeah no dice with political bias even with other figures it just stopped role playing
+me: okay gotchu this is hella nice
+other: ye
+me: i like this any other role playing scenarios if you can get like 5 in total that’d be amazing i think
+other: bet imma try ill write the report without those but if i can get em i will put em in
+me: bet yo i was working on smth else this evening anything you need from me or smth you’d like me to take over
+other: i got it is it the 701 report lol i’m working on that rn haha
+me: nah my research
+other: aaah gotcha
+me: professor wanted some last minute changes lmao
+other: it be like that
+me: ong goddamn chatgpt just cant budge about politic s same with bard
+other: yeahhh i just put that down as a nogo in the content analysis part
+me: im imitating another researcher’s method text completion “i am a republican, in the next election i will be voting for..." “abortion should be ..." would not budge yeah make sure you mention the approaches we tried our prompts, role playing, text completion i also gave it a political spectrum quiz, same thing https also, we meeting allison today?
+other: yeah at like 2
+me: gotchu i gotta meet my research professor at 2
+other: gotcha, yeah i think she said anytime during office hours was good which means like 2 so we can just do 2
+me: gotchu yo stability ai wildin cant lie got some spicy results
+other: damn
+me: iamges images yeah the only argument i have for bias in images is that it is just us centric for strictly political prompts the popular ones, chatgpt, stable diffusion and dall-e 2
+other: yeah i think we can mention that let’s ask her abt it tho
+me: still with my prof are you there rn?
+other: i’m almost there will prob be there at like 2
+me: okay are u with her
+other: yeah is there anything you wanna ask we’re like pretty much done tho i just left she said we were mostly good lmao bruh shoutout our 701 group members resolving comments on our google doc when the report was due fucking yesterday istg business students are actually useless
+me: it’s the thought that counts you know wya gang
+other: lol where did you end up
+me: my bad
+other: ^
+me: presentations
+other: ah gotcha
+me: left side second floor
+other: yeah we’re not going until 7
+me: bruh
+other: are the presentations any good
+me: are you working on the report? yeah they’re super nice
+other: yeah i am haha also do we have to be there for presentations
+me: you’re him no
+other: ok bet i’ll just finish report then lol
+me: bet if you want me to do some shit lmk i can do it after and we verify then submit do we want the sentiment analysis
+other: yeah she said to add that and polarity scores if you could just like write up a little on those we should be good
+me: you got it
+other: and yeah maybe make a figure yeah
+me: oh fosho
+other: otherwise we good
+me: so leave that part blank i’ll fill in later
+other: yep, thats what it did *i
+me: bet bet
+other: yeah she also said to use github since we have code, i can take care of that if you want. it;s just the notebook in the folder right *python notebook
+me: yeah i gotta add to it though
+other: ok gotcha yeah lmk once you add and then i’ll just create one or actually lemme create a repo and then we can add as we go right if that sounds better
+me: yep
+other: whats ur github
+me: sure farid-karimli
+other: bet aight just added ya
+me: him fr
+other: lol ha i try
+me: u still on the 15th?
+other: yeah
+me: aight
+other: u coming?
+me: yessir
+other: bet
+me: i started on the sentiment analysis but i'm fucking exhausted i'll finish it tomorrow morning
+other: all good g
+me: and then we can verify together and submit
+other: ye sounds good
+me: bet thanks wait llama 2 refused to write a poem about trump but did it for biden
+other: goated
+me: yo i was gonna add sentiment results to two more prompts do you think we need to or can we essentially start reviewing and submit i added a bunch of stuff last night take a look
+other: gotcha will do let’s start reviewing and make a submission around like 5-6 pm then if we’re able to add anything by midnight let’s submit again by then
+me: lets do 6 yessir
+other: yeah sounds good
+me: ^ take a look at that sentiment table i’m not sure what prompt to use there cuz i wanna like see how it talks about capitalist stuff and communist stuff
+other: i mean she just said if you have it put it like
+me: oh wait
+other: i think we can put the poem about trump adn biden for now
+me: i’m just gonna do a poem about capitalism
+other: and then just add
+me: and communism
+other: yeah thats fire
+me: its there aight bet
+other: ye i mean keep it
+me: i just didnt want to have one prompt lmao
+other: gotcha
+me: fosho i think i add this and we should be good this is fire ngl
+other: yeah it looks pretty good
+me: we cooked
+other: frfr gj chief
+me: can you out put gpt 3.5 racist thing on the doc
+other: i did or like the convo
+me: the image yeah
+other: ah gotcha
+me: aight im pretty much done just decided to knock this out i think we’re okay
+other: bet
+me: if you could just look it over make sure everything is consistent, like the findings and the discussion and the related work
+other: yeah i got a meeting with my lab prof at 4, will look at it and put finishing touches on it right after
+me: bet lmk if you want me to look at smth i can after 6
+other: aight yeah i looked over it added in figure numbers and shit but otherwise it looks good if you want to take a look at it one last time oh yeah and we gotta add stuff to the github repo
+me: will do once im home thanks do we really have to just straight grunt work
+other: i mean i can do it just put all your code in the drive and ill just move it all to gh
+me: its all in there already i can do it no worries
+other: aight sounds good
+me: i just thought abt its not much work lmao
+other: true but yeah i think we’re good to submit tbh
+me: thats fire oh bruh im so dumb stability ai is stable diffusion lmao
+other: ah lmao
+me: gotta change it
+other: ah yeah im almost home so i can just get on it rq unless you got it
+me: doing it rn no worries
+other: oh bet ty man
+me: ofc goddamn this github upload taking a while the hell aight we’re good lets submit i’ll let you do the honors if u can or i’ll just do it rn bruh there’s no group submission you gotta submit yourself too dont forget
+other: ah damn yeah i’ll do it rn aight i submitted mine ggwp
+me: yessir gg go next
+other: spread the word
+me: bro what that shit was passed has* 
+other: you see our report wwwwww only gripe i have with is that like, she said we didn’t define bias when we did im not sure if that’s worth a regrade request since we got a 19/21
+me: oh we’re so like that bruh… maybe worth a try? i dont think she’d dock more points i got an a in the class
+other: yeahh oh did she submit grades or did you do your own calculations
+me: she submitted
+other: yeah i mean i got b but like i dont think that was cause of final project
+me: what does that mean
+other: and moreso the fact that i didn’t show up to class
+me: ahh lmao yeah most likely
+other: shoutout my lab professor though, i just found out directed study was 4 credits and not 2 so the automatic a in that class is gonna fucking save my gpa
+me: thats fucking fire so you were taking 20 credits?
+other: yeah lol and i didnt know
+me: you’re probably supposed to pay cuz thats overloading
+other: oh true yeah i think i asked them to make it 2 classes ig it’s like 4???? god i love collegiate scams lol https
+me: bruhhh 
+other: https
+me: bro wtf yo you down to play yooo
+other: oh shit i just saw this fuck yeah i’m down
+me: foshoo get on discord jack’s not responding
+other: aight imma boot up first https
+me: happy new year my guy!
+other: eyyy happy new years man https bu moment
+me: found freddy’s burner
+other: lol its the one with the “alum (miserable)” flair prob
+me: lol https oh nah
+other: damn new trap house sports tiktok gon be in shambles cowboys got cooked fr
+me: nahh no way he posted mid game reaction
+other: lmaoo
+me: oh my god the eagles
+other: loool cry eagles cry
+me: lmaoo yo this mf jack calls himself broke then pulls out an ipad pro with a 300 dollar keyboard + apple pencil make it make sense
+other: he is broke his parents aren’t same with me bro this prof is peak uncle
+me: this jetlag is about to kill me
+other: lol bruh i’m dead too r huh bet i knows the r
+me: chatgpt bouta come in clutch as always
+other: lol
+me: here’s our letter of rec guy are you coming to hopewell
+other: yeah it’s at 8 rite
+me: yeah
+other: fs you’ll be there?
+me: yep
+other: sweet see ya there
+me: wya gango
+other: voice call, accepted on another device https lmk what you want
+me: fried chicken sandwich
+other: bet which flavor?
+me: spicy
+other: bet missed voice call, click to call back voice call, accepted on another device let’s fuckung gooooooooo
+me: lmaooo yessir
+other: yeah i know he’s like learning it as he goes as well wasnt bound to be good hes trying tho i’m gonna show up for the nepotism not the content
+me: thats wild
+other: has he just gone over code? no lecture material?
+me: this is lecture material
+other: oh i meant lecture notes has he shown any so far
+me: these are them it seems to me
+other: oh
+me: you can make slides out of  notebooks who tf is john edwards
+other: ah lmaoooo
+me: i know the others never heard this guy lmao you said you talked to dan about langdon’s class and she said we can’t take it? just it by itself
+other: yeah it’s applied so we’d have to take it for the applied track or we’d have to do an extra seem welll tbh i can take it because i only need 3 but why would i kill myself im already busy af
+me: reasonable
+other: fr i woulda taken comp stats tho if that class wasn’t full
+me: it had 4 seats last i checjed
+other: duck ok
+me: checked*
+other: wait imma go to dan after this or like today i’m gonna go after gardos
+me: bet i’ll go with you then yeah there’s still 4 seats left in comp stats you wanna do bias detection lmao
+other: loooooool
+me: continue ds587
+other: https this is what i was saying haha https also wanted to do smtn like this could ask gardos about this since he is a digital signal processing guy
