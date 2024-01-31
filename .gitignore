@@ -7,3 +7,5 @@ venv/
 misc/
 *.log
 process.py
+chats/*
+chats/*/*
